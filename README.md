@@ -13,7 +13,12 @@ Croatia** — see `data/`.
 python render.py            # defaults to switzerland
 python render.py france     # or morocco / germany / senegal / croatia
 python render_html.py france # browser version (flag images)
+python summary.py            # all teams in one view (output/summary.html + .txt)
 ```
+
+`summary.py` builds a combined grid: each team titled with its flag, then three
+flag-only rows (players' birth countries, fathers' origins, mothers' origins), with
+player columns aligned so each column is one starter.
 
 No dependencies required. `pip install -r requirements.txt` (pycountry) is optional
 and just extends country-name coverage for when you add more teams.
