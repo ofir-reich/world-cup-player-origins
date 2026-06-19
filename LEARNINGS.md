@@ -40,6 +40,40 @@ Cost per team ≈ **1 lineup search + 11 WebFetch + ~2–4 gap searches ≈ 13�
 - `medium` — implied / from a less authoritative source.
 - `low` — surname inference or assumed-same-as-birth-country. Renders faded + `*`.
 
+## Batch 2 learnings (France, Morocco, Germany, Senegal, Croatia)
+
+**The pipeline scaled cleanly** — 55 players, ~5 needed a retry. Confirmed: do all 11
+WebFetches per team in parallel, expect a couple of misses, mop up with WebSearch.
+
+**Three distinct "origin" patterns** — worth knowing what a team's chart will *mean*:
+- *Immigrant-heritage hosts* (France, Germany, Switzerland): players born in the country,
+  parents from many others → colourful **parent** flags. France hit 15 origin countries.
+- *Diaspora representing the homeland* (Morocco, Senegal): many players **born abroad**
+  (Europe/Canada) playing for the ancestral nation → the **birth** flag differs from the team.
+- *Ethnically homogeneous* (Croatia): everyone is the same ethnicity, but birthplaces still
+  scatter across the diaspora (Germany, Switzerland, Bosnia) — so birth-country variety is
+  NOT ethnic variety. Croatia = only 4 origins. Don't over-read these charts.
+
+**Data-shape realities:**
+- Bios often say only "to Moroccan parents" / "of Senegalese descent" with no per-parent
+  detail → set **both** parents to that country at **medium** confidence. Faithful, not invented.
+- **Dual heritage is common** (Franco-Algerian, Mauritanian-Senegalese, Nigerian-British).
+  `flags.py` now supports **multiple flags per field** — store e.g. `"Mauritania / Senegal"`
+  (separators: ` / `, ` and `, `,`). Use it for genuinely dual origins; keep nationality-only
+  notes (e.g. "Nigerian-British") in the `note`, single flag.
+- **Birthplace can be disputed** (Nicolas Jackson: Gambia vs Senegal) → mark `medium` + note.
+
+**URL gotchas confirmed & how to dodge:**
+- Accented titles sometimes 404 (`Ismaël_Saibari` failed; `Ismael_Saibari` worked). Retry
+  without diacritics.
+- Common names land on **disambiguation pages** (Issa Diop) or need a qualifier
+  (`Nathaniel_Brown` vs `..._(footballer)`). When WebFetch returns a disambiguation/404,
+  fall back to WebSearch — it resolves both the right person and the heritage in one call.
+
+**New flag cases handled in `flags.py`:** overseas territories (French Guiana `GF`,
+Guadeloupe `GP`), UK home nations (England `GB-ENG` via Unicode tag sequence / flagcdn
+`gb-eng`), and parenthetical stripping (`"Croatia (Zadar)"` → Croatia).
+
 ## Doing all 48 teams (when we get there)
 
 - One `data/<team>.json` per team; the renderers already take a team arg.

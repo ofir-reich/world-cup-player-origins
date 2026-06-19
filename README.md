@@ -4,13 +4,15 @@ A small, fun tool that visualizes a national team's starting XI by the **origins
 of its players — where each player was born and where each parent comes from —
 rendered as **flag emojis**.
 
-Prototype team: **Switzerland** (2026 FIFA World Cup).
+Teams so far (2026 FIFA World Cup): **Switzerland, France, Morocco, Germany, Senegal,
+Croatia** — see `data/`.
 
 ## Run
 
 ```bash
 python render.py            # defaults to switzerland
-python render.py switzerland
+python render.py france     # or morocco / germany / senegal / croatia
+python render_html.py france # browser version (flag images)
 ```
 
 No dependencies required. `pip install -r requirements.txt` (pycountry) is optional

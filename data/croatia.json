@@ -1,0 +1,106 @@
+{
+  "team": "Croatia",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "England vs Croatia, Group L opener, 17 June 2026 (4-2-3-1)",
+  "players": [
+    {
+      "name": "Dominik Livaković",
+      "position": "GK",
+      "birth_country": "Croatia",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Zadar; parents Croatian (mother Manuela related to footballer Josip Skoblar)."
+    },
+    {
+      "name": "Joško Gvardiol",
+      "position": "DF",
+      "birth_country": "Croatia",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Zagreb; father from Novigrad (near Zadar), mother from Srednjaci."
+    },
+    {
+      "name": "Josip Šutalo",
+      "position": "DF",
+      "birth_country": "Bosnia and Herzegovina",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Čapljina, Bosnia and Herzegovina (ethnic Croat); plays for Croatia."
+    },
+    {
+      "name": "Luka Vušković",
+      "position": "DF",
+      "birth_country": "Croatia",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Split; father Danijel played for Hajduk Split."
+    },
+    {
+      "name": "Josip Stanišić",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Munich to Croat parents (father from Malino, mother from Oriovac)."
+    },
+    {
+      "name": "Luka Modrić",
+      "position": "MF",
+      "birth_country": "Croatia",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Zadar; father from Modrići, mother from Kruševo near Obrovac."
+    },
+    {
+      "name": "Mario Pašalić",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Mainz, Germany; father a Bosnian Croat (near Tomislavgrad), mother from Vrlika. Parents emigrated during the Yugoslav Wars."
+    },
+    {
+      "name": "Petar Sučić",
+      "position": "MF",
+      "birth_country": "Bosnia and Herzegovina",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Livno, Bosnia and Herzegovina, into a Bosnian Croat family."
+    },
+    {
+      "name": "Ivan Perišić",
+      "position": "MF",
+      "birth_country": "Croatia",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Split; parents from Omiš."
+    },
+    {
+      "name": "Martin Baturina",
+      "position": "FW",
+      "birth_country": "Switzerland",
+      "father_origin": "Croatia",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Zürich during father Mate Baturina's stint with Grasshoppers; raised in Split."
+    },
+    {
+      "name": "Petar Musa",
+      "position": "FW",
+      "birth_country": "Croatia",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Croatia",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Zagreb; father Željko a Bosnian Croat from Široki Brijeg."
+    }
+  ]
+}

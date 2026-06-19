@@ -1,0 +1,106 @@
+{
+  "team": "Germany",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Germany vs Curaçao, Group E opener, 14 June 2026 (4-2-3-1)",
+  "players": [
+    {
+      "name": "Manuel Neuer",
+      "position": "GK",
+      "birth_country": "Germany",
+      "father_origin": "Germany",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Gelsenkirchen; no parental origin documented, German family assumed."
+    },
+    {
+      "name": "Joshua Kimmich",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "Germany",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Rottweil; no parental origin documented, German family assumed."
+    },
+    {
+      "name": "Jonathan Tah",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Hamburg to an Ivorian father and a German mother."
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "Germany",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Waiblingen; no parental origin documented, German family assumed."
+    },
+    {
+      "name": "Nathaniel Brown",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "United States",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Amberg to an American father and a German mother; chose Germany over the USA."
+    },
+    {
+      "name": "Felix Nmecha",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Nigeria",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Hamburg, the son of a German mother and an Igbo Nigerian father."
+    },
+    {
+      "name": "Aleksandar Pavlović",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Serbia",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Munich to a Serbian father and a German mother; dual citizenship."
+    },
+    {
+      "name": "Leroy Sané",
+      "position": "FW",
+      "birth_country": "Germany",
+      "father_origin": "Senegal",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Essen; father Souleymane Sané a Senegalese international footballer, mother Regina Weber a German Olympic gymnast."
+    },
+    {
+      "name": "Jamal Musiala",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Nigeria",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Stuttgart to a Nigerian-British father and a German mother (with Polish roots); raised in England."
+    },
+    {
+      "name": "Florian Wirtz",
+      "position": "FW",
+      "birth_country": "Germany",
+      "father_origin": "Germany",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Pulheim; parents (his agents) are German."
+    },
+    {
+      "name": "Kai Havertz",
+      "position": "FW",
+      "birth_country": "Germany",
+      "father_origin": "Germany",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Aachen; German family (distant Dutch ancestry on the father's side)."
+    }
+  ]
+}

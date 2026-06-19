@@ -21,26 +21,32 @@ import json
 import sys
 from pathlib import Path
 
-from flags import name_to_code
+from flags import name_to_codes, code_to_flag
 
 ROOT = Path(__file__).parent
 
 CONF_TITLE = {"high": "high confidence", "medium": "medium confidence", "low": "low confidence"}
 
 
-def flag_img(country: str, confidence: str = "high") -> str:
-    """An <img> flag for a country name, or a '?' chip if unknown."""
-    code = name_to_code(country)
-    label = html.escape(country)
-    if not code:
+def _img(code: str, label: str) -> str:
+    return (
+        f'<img loading="lazy" src="https://flagcdn.com/h40/{code.lower()}.png" '
+        f'srcset="https://flagcdn.com/h80/{code.lower()}.png 2x" alt="{label}">'
+    )
+
+
+def flag_img(field: str, confidence: str = "high") -> str:
+    """One or more <img> flags for an origin field, or a 🏳️ chip if unknown."""
+    codes = name_to_codes(field)
+    label = html.escape(field)
+    if not codes:
         return '<span class="flag unknown" title="unknown">🏳️</span>'
     dim = " low" if confidence == "low" else ""
     marker = {"low": " *", "medium": " ?"}.get(confidence, "")
+    imgs = "".join(_img(c, label) for c in codes)
     return (
         f'<span class="flag{dim}" title="{label} ({CONF_TITLE.get(confidence, confidence)})">'
-        f'<img loading="lazy" src="https://flagcdn.com/h40/{code.lower()}.png" '
-        f'srcset="https://flagcdn.com/h80/{code.lower()}.png 2x" alt="{label}">'
-        f'<span class="marker">{marker}</span></span>'
+        f'{imgs}<span class="marker">{marker}</span></span>'
     )
 
 
@@ -63,14 +69,16 @@ def render(team: str) -> str:
     title = html.escape(f"{data['team']} — {data.get('tournament', '')}")
     lineup = html.escape(data.get("lineup_source", ""))
 
-    # Distinct origins represented.
-    origins: list[str] = []
+    # Distinct origins represented (deduped by ISO code).
+    codes: list[str] = []
     for p in players:
         for key in ("birth_country", "father_origin", "mother_origin"):
-            c = p[key]
-            if c.lower() not in {"unknown", ""} and c not in origins:
-                origins.append(c)
-    origins_html = " ".join(flag_img(c) for c in origins)
+            for code in name_to_codes(p[key]):
+                if code not in codes:
+                    codes.append(code)
+    origins_html = "".join(
+        f'<span class="flag">{_img(c, c)}</span>' for c in codes
+    )
 
     rows = "\n".join(player_row(p) for p in players)
 
@@ -111,7 +119,7 @@ def render(team: str) -> str:
 {rows}
     </tbody>
   </table>
-  <div class="origins">Origins represented ({len(origins)}): {origins_html}</div>
+  <div class="origins">Origins represented ({len(codes)}): {origins_html}</div>
   <div class="legend">
     First flag = birthplace · 👨 father's origin · 👩 mother's origin.<br>
     <b>*</b> = low confidence (faded), <b>?</b> = medium, 🏳️ = unknown.

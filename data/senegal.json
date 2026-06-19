@@ -1,0 +1,106 @@
+{
+  "team": "Senegal",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "France vs Senegal, Group I, 16 June 2026",
+  "players": [
+    {
+      "name": "Édouard Mendy",
+      "position": "GK",
+      "birth_country": "France",
+      "father_origin": "Guinea-Bissau",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Montivilliers, France, to a Bissau-Guinean father and a Senegalese mother."
+    },
+    {
+      "name": "Krépin Diatta",
+      "position": "DF",
+      "birth_country": "Senegal",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Dakar, Senegal (homegrown; parents not documented but Senegalese)."
+    },
+    {
+      "name": "Kalidou Koulibaly",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Saint-Dié-des-Vosges, France, to Senegalese parents."
+    },
+    {
+      "name": "Moussa Niakhaté",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Roubaix, France; Senegalese by descent (individual parents not specified)."
+    },
+    {
+      "name": "El Hadji Malick Diouf",
+      "position": "DF",
+      "birth_country": "Senegal",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Diouloulou, Senegal (homegrown; parents not documented but Senegalese)."
+    },
+    {
+      "name": "Lamine Camara",
+      "position": "MF",
+      "birth_country": "Senegal",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Dakar, Senegal (homegrown; parents not documented but Senegalese)."
+    },
+    {
+      "name": "Pape Gueye",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Montreuil, France; Senegalese by descent (individual parents not specified)."
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "position": "FW",
+      "birth_country": "Senegal",
+      "father_origin": "Senegal",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "low", "mother": "high" },
+      "note": "Born in Saint-Louis, Senegal; mother is French ('My mother is from France')."
+    },
+    {
+      "name": "Habib Diarra",
+      "position": "MF",
+      "birth_country": "Senegal",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Guédiawaye, Senegal; moved to France young. Parents not documented."
+    },
+    {
+      "name": "Sadio Mané",
+      "position": "FW",
+      "birth_country": "Senegal",
+      "father_origin": "Guinea",
+      "mother_origin": "Guinea",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Bambali, Senegal, to Guinean parents."
+    },
+    {
+      "name": "Nicolas Jackson",
+      "position": "FW",
+      "birth_country": "Gambia",
+      "father_origin": "Gambia",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "medium", "father": "high", "mother": "high" },
+      "note": "Gambian father and Senegalese mother; birthplace disputed (Banjul, Gambia per several sources; Djibonker, Senegal per club profiles)."
+    }
+  ]
+}

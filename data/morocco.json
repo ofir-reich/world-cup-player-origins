@@ -1,0 +1,106 @@
+{
+  "team": "Morocco",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Morocco vs Brazil, World Cup opener, 13 June 2026 (4-3-3)",
+  "players": [
+    {
+      "name": "Yassine Bounou",
+      "position": "GK",
+      "birth_country": "Canada",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Montreal to Moroccan parents (father from Bouana, Taounate province)."
+    },
+    {
+      "name": "Achraf Hakimi",
+      "position": "DF",
+      "birth_country": "Spain",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Madrid to Moroccan parents (father Mohamed a street vendor, mother Saida); raised in Getafe."
+    },
+    {
+      "name": "Chadi Riad",
+      "position": "DF",
+      "birth_country": "Spain",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Spain to Moroccan parents."
+    },
+    {
+      "name": "Issa Diop",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Senegal",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Toulouse, France; Senegalese father, Moroccan mother. Developed in France, switched allegiance to Morocco in 2026."
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Leiderdorp, Netherlands, to Moroccan (Riffian Berber) parents."
+    },
+    {
+      "name": "Neil El Aynaoui",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "Morocco",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Nancy, France; father is retired Moroccan tennis player Younes El Aynaoui. Mother's origin not documented."
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Senlis, France; of Moroccan origin (individual parents not specified)."
+    },
+    {
+      "name": "Ismaël Saibari",
+      "position": "FW",
+      "birth_country": "Spain",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Terrassa, Spain; of Moroccan descent (individual parents not specified)."
+    },
+    {
+      "name": "Bilal El Khannous",
+      "position": "FW",
+      "birth_country": "Belgium",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Molenbeek-Saint-Jean, Belgium, of Moroccan descent."
+    },
+    {
+      "name": "Azzedine Ounahi",
+      "position": "FW",
+      "birth_country": "Morocco",
+      "father_origin": "Morocco",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Casablanca, Morocco (homegrown; parents not documented but Moroccan)."
+    },
+    {
+      "name": "Brahim Díaz",
+      "position": "FW",
+      "birth_country": "Spain",
+      "father_origin": "Morocco",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Málaga to a Moroccan-Riffian father and a Spanish mother."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "team": "France",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "France vs Senegal, Group I, 16 June 2026 (4-2-3-1)",
+  "players": [
+    {
+      "name": "Mike Maignan",
+      "position": "GK",
+      "birth_country": "French Guiana",
+      "father_origin": "Guadeloupe",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Cayenne, French Guiana, to a Guadeloupean father and a Haitian mother (from Aquin)."
+    },
+    {
+      "name": "Jules Koundé",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Benin",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Paris to a Beninese father (François) and a French mother (Élisabeth); holds French and Beninese citizenship."
+    },
+    {
+      "name": "William Saliba",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Lebanon",
+      "mother_origin": "Cameroon",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Bondy, Seine-Saint-Denis, to a Lebanese father and a Cameroonian mother."
+    },
+    {
+      "name": "Dayot Upamecano",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Guinea-Bissau",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in Évreux; parents from Guinea-Bissau and Senegal ('His mother is Senegalese')."
+    },
+    {
+      "name": "Théo Hernandez",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "France",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Marseille; father Jean-François Hernández was a French footballer (of Spanish descent). Raised partly in Spain."
+    },
+    {
+      "name": "Adrien Rabiot",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "France",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Saint-Maurice into a French footballing family (mother Véronique, father Alain, both French players)."
+    },
+    {
+      "name": "Aurélien Tchouaméni",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "Cameroon",
+      "mother_origin": "Cameroon",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Rouen; of Cameroonian descent through both parents."
+    },
+    {
+      "name": "Michael Olise",
+      "position": "MF",
+      "birth_country": "England",
+      "father_origin": "Nigeria",
+      "mother_origin": "France / Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in London to a British-Nigerian father and a Franco-Algerian mother. 'I come from four countries: France, Algeria, Nigeria and England.'"
+    },
+    {
+      "name": "Désiré Doué",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Angers to an Ivorian father and a French mother; holds French and Ivorian citizenship."
+    },
+    {
+      "name": "Kylian Mbappé",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Cameroon",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Paris; father from the Cameroonian island of Djébalè, mother of Algerian Kabyle origin."
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Mali",
+      "mother_origin": "Mauritania / Senegal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Vernon; Malian father, Mauritanian-Senegalese mother (from Waly Diantang)."
+    }
+  ]
+}

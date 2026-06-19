@@ -18,7 +18,7 @@ import json
 import sys
 from pathlib import Path
 
-from flags import country_to_flag
+from flags import country_to_flag, country_to_flags, name_to_codes, code_to_flag
 
 ROOT = Path(__file__).parent
 
@@ -27,8 +27,8 @@ CONFIDENCE_MARKER = {"high": "", "medium": "?", "low": "*"}
 
 
 def origin_cell(country: str, confidence: str) -> str:
-    """Flag emoji + a confidence marker (e.g. '🇰🇴' or '🇩🇪*')."""
-    return country_to_flag(country) + CONFIDENCE_MARKER.get(confidence, "")
+    """Flag emoji (one or more for compound origins) + a confidence marker."""
+    return country_to_flags(country) + CONFIDENCE_MARKER.get(confidence, "")
 
 
 def format_player(player: dict, name_width: int) -> str:
@@ -57,15 +57,15 @@ def render(team: str) -> str:
         lines.append(format_player(p, name_width))
 
     # Fun summary: every distinct origin (birth + both parents) represented.
-    origins = []
+    codes: list[str] = []
     for p in players:
         for key in ("birth_country", "father_origin", "mother_origin"):
-            c = p[key]
-            if c.lower() not in {"unknown", ""} and c not in origins:
-                origins.append(c)
+            for code in name_to_codes(p[key]):
+                if code not in codes:
+                    codes.append(code)
     lines.append("")
-    lines.append("Origins represented: " + " ".join(country_to_flag(c) for c in origins))
-    lines.append(f"   ({len(origins)} countries: {', '.join(origins)})")
+    lines.append("Origins represented: " + " ".join(code_to_flag(c) for c in codes))
+    lines.append(f"   ({len(codes)} countries/territories)")
 
     lines.append("")
     lines.append("Legend: 1st flag = birthplace · 👨 father's origin · 👩 mother's origin")
