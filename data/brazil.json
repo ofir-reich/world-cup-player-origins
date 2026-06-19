@@ -1,0 +1,106 @@
+{
+  "team": "Brazil",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Brazil vs Morocco, Group C opener, 12 June 2026",
+  "players": [
+    {
+      "name": "Alisson",
+      "position": "GK",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Novo Hamburgo; family of German descent (holds German passport), but parents Brazilian-born."
+    },
+    {
+      "name": "Douglas Santos",
+      "position": "DF",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Brazilian left-back (born in Brazil); no foreign parental heritage documented."
+    },
+    {
+      "name": "Marquinhos",
+      "position": "DF",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in São Paulo; holds Portuguese nationality by descent, parents Brazilian-born."
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "position": "DF",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in São Paulo (Pirituba); no foreign parental heritage documented."
+    },
+    {
+      "name": "Roger Ibáñez",
+      "position": "DF",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Rio de Janeiro; Spanish grandfather (Spanish citizenship), parents Brazilian-born."
+    },
+    {
+      "name": "Bruno Guimarães",
+      "position": "MF",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in São José dos Campos; no foreign parental heritage documented."
+    },
+    {
+      "name": "Casemiro",
+      "position": "MF",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in São José dos Campos; no foreign parental heritage documented."
+    },
+    {
+      "name": "Lucas Paquetá",
+      "position": "MF",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Rio de Janeiro; mother of Portuguese descent (EU eligibility), parents Brazilian-born."
+    },
+    {
+      "name": "Raphinha",
+      "position": "FW",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Porto Alegre; father of Italian descent, mother mixed-race Brazilian; parents Brazilian-born."
+    },
+    {
+      "name": "Igor Thiago",
+      "position": "FW",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Gama, Federal District; no foreign parental heritage documented."
+    },
+    {
+      "name": "Vinícius Júnior",
+      "position": "FW",
+      "birth_country": "Brazil",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in São Gonçalo, Rio de Janeiro; no foreign parental heritage documented."
+    }
+  ]
+}

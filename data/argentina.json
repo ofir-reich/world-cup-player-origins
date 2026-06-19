@@ -1,0 +1,106 @@
+{
+  "team": "Argentina",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Argentina vs Algeria, Group J, 16 June 2026",
+  "players": [
+    {
+      "name": "Emiliano Martínez",
+      "position": "GK",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Mar del Plata, Argentina; no foreign parental heritage documented."
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "position": "DF",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in González Catán, Greater Buenos Aires; no foreign parental heritage documented."
+    },
+    {
+      "name": "Cristian Romero",
+      "position": "DF",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Córdoba, Argentina; no foreign parental heritage documented."
+    },
+    {
+      "name": "Lisandro Martínez",
+      "position": "DF",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Gualeguay, Entre Ríos; no foreign parental heritage documented."
+    },
+    {
+      "name": "Facundo Medina",
+      "position": "DF",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Villa Fiorito, Argentina; no foreign parental heritage documented."
+    },
+    {
+      "name": "Rodrigo De Paul",
+      "position": "MF",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Sarandí; mother Mónica Ferraroti is of Italian descent (Italian citizenship), but parents Argentine-born."
+    },
+    {
+      "name": "Enzo Fernández",
+      "position": "MF",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in San Martín, Buenos Aires; of Italian descent, parents Argentine-born."
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "position": "MF",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Santa Rosa, La Pampa; Irish (Co. Dublin) and Italian distant ancestry, parents Argentine-born."
+    },
+    {
+      "name": "Lionel Messi",
+      "position": "FW",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Rosario; Italian and Spanish ancestry (great-grandparents from the Marche region), parents Argentine-born."
+    },
+    {
+      "name": "Lautaro Martínez",
+      "position": "FW",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Bahía Blanca, Argentina; no foreign parental heritage documented."
+    },
+    {
+      "name": "Thiago Almada",
+      "position": "FW",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Ciudadela, Buenos Aires; no foreign parental heritage documented."
+    }
+  ]
+}
