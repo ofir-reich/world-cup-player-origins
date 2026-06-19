@@ -1,0 +1,106 @@
+{
+  "team": "Switzerland",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Switzerland vs Bosnia & Herzegovina, Group B, 18 June 2026 (4-3-3)",
+  "players": [
+    {
+      "name": "Gregor Kobel",
+      "position": "GK",
+      "birth_country": "Switzerland",
+      "father_origin": "Switzerland",
+      "mother_origin": "Switzerland",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Zürich. No parental origin documented; Swiss surname, assumed Swiss (low confidence)."
+    },
+    {
+      "name": "Silvan Widmer",
+      "position": "DF",
+      "birth_country": "Switzerland",
+      "father_origin": "Switzerland",
+      "mother_origin": "Switzerland",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Wettingen. No parental origin documented; Swiss surname, assumed Swiss (low confidence)."
+    },
+    {
+      "name": "Nico Elvedi",
+      "position": "DF",
+      "birth_country": "Switzerland",
+      "father_origin": "Switzerland",
+      "mother_origin": "Switzerland",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Zürich; son of Adrian Elvedi, twin brother Jan also a footballer. No parental origin documented; Swiss/Romansh surname, assumed Swiss (low confidence)."
+    },
+    {
+      "name": "Manuel Akanji",
+      "position": "DF",
+      "birth_country": "Switzerland",
+      "father_origin": "Nigeria",
+      "mother_origin": "Switzerland",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Wikipedia: 'born in Neftenbach, Switzerland, to a Swiss mother and a Nigerian father.'"
+    },
+    {
+      "name": "Ricardo Rodríguez",
+      "position": "DF",
+      "birth_country": "Switzerland",
+      "father_origin": "Spain",
+      "mother_origin": "Chile",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Zürich to a Spanish father and a Chilean mother; holds Spanish and Chilean nationalities."
+    },
+    {
+      "name": "Michel Aebischer",
+      "position": "MF",
+      "birth_country": "Switzerland",
+      "father_origin": "Switzerland",
+      "mother_origin": "Switzerland",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Fribourg. No parental origin documented; Swiss surname, assumed Swiss (low confidence)."
+    },
+    {
+      "name": "Granit Xhaka",
+      "position": "MF",
+      "birth_country": "Switzerland",
+      "father_origin": "Kosovo",
+      "mother_origin": "Kosovo",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Basel to an ethnic Albanian family from Besianë, Kosovo; parents Ragip and Elmaze Xhaka arrived in Basel from Kosovo in 1990."
+    },
+    {
+      "name": "Remo Freuler",
+      "position": "MF",
+      "birth_country": "Switzerland",
+      "father_origin": "Switzerland",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "low", "mother": "high" },
+      "note": "Born in Ennenda. 'Of German descent through his mother, who is from Bavaria.' Father's origin not documented; Swiss surname, assumed Swiss (low confidence)."
+    },
+    {
+      "name": "Fabian Rieder",
+      "position": "FW",
+      "birth_country": "Switzerland",
+      "father_origin": "Switzerland",
+      "mother_origin": "Switzerland",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Koppigen. No parental origin documented; Swiss surname, assumed Swiss (low confidence)."
+    },
+    {
+      "name": "Breel Embolo",
+      "position": "FW",
+      "birth_country": "Cameroon",
+      "father_origin": "Cameroon",
+      "mother_origin": "Cameroon",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Yaoundé, Cameroon; both parents (Moise Kegni, Germaine Embolo) Cameroonian. Moved via France to Switzerland as a child; gained Swiss citizenship through stepfather."
+    },
+    {
+      "name": "Dan Ndoye",
+      "position": "FW",
+      "birth_country": "Switzerland",
+      "father_origin": "Senegal",
+      "mother_origin": "Switzerland",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Nyon to a Swiss mother and a Senegalese-French father."
+    }
+  ]
+}

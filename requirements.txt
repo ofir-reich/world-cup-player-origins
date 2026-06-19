@@ -1,0 +1,4 @@
+# Optional. Not required to run — flags.py has a built-in name→code map covering
+# the countries in data/. Installing pycountry extends coverage to every country
+# automatically (useful when adding more teams).
+pycountry
