@@ -1,0 +1,106 @@
+{
+  "team": "United States",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "United States vs. Australia, Group D, 19 June 2026 (4-4-2)",
+  "players": [
+    {
+      "name": "Matt Freese",
+      "position": "GK",
+      "birth_country": "United States",
+      "father_origin": "United States",
+      "mother_origin": "United States",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Wayne, Pennsylvania. Father Andrew Freese was a neurosurgeon born in the US; paternal grandparents Ernst and Elisabeth Freese were German scientists who immigrated to the US after WWII (grandparent-level, not parent). Mother Marcia Geary Wolicki is American."
+    },
+    {
+      "name": "Sergino Dest",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Suriname",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Almere, Netherlands. Father Kenneth Dest was born in Suriname and later immigrated to the United States; mother is Dutch."
+    },
+    {
+      "name": "Chris Richards",
+      "position": "DF",
+      "birth_country": "United States",
+      "father_origin": "United States",
+      "mother_origin": "United States",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Birmingham, Alabama. Father Ken Richards played college basketball at Birmingham-Southern College and later played professionally abroad (Australia, Bolivia, Iceland), but no documented non-US origin; assumed American. Mother Carrie Richards is American."
+    },
+    {
+      "name": "Tim Ream",
+      "position": "DF",
+      "birth_country": "United States",
+      "father_origin": "United States",
+      "mother_origin": "United States",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in St. Louis, Missouri. No parental origin documented; assumed American (medium confidence)."
+    },
+    {
+      "name": "Antonee Robinson",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Milton Keynes, England, raised in Liverpool. Father Marlon Robinson was born in England (with a Jamaican-origin mother — grandparent level, not counted); mother Kelly Robinson was also born and raised in England. Holds US nationality through father's naturalization."
+    },
+    {
+      "name": "Tyler Adams",
+      "position": "MF",
+      "birth_country": "United States",
+      "father_origin": "United States",
+      "mother_origin": "United States",
+      "confidence": { "birth": "high", "father": "low", "mother": "high" },
+      "note": "Born in Wappingers Falls, New York. Mother Melissa Russo is American (European descent). Biological father's identity not publicly disclosed; described as African American but birthplace unknown — set to United States (low confidence)."
+    },
+    {
+      "name": "Weston McKennie",
+      "position": "MF",
+      "birth_country": "United States",
+      "father_origin": "United States",
+      "mother_origin": "United States",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born at Fort Lewis, Washington. Father John McKennie Sr. is an African American US Air Force officer from the United States; mother Tina McKennie is an American from Texas. Grew up in Germany due to father's military posting."
+    },
+    {
+      "name": "Alex Freeman",
+      "position": "DF",
+      "birth_country": "United States",
+      "father_origin": "United States",
+      "mother_origin": "unknown",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Plantation, Florida (some sources say Baltimore, MD). Father Antonio Freeman is an American former NFL wide receiver (born Baltimore, MD). Mother Rochelle's origin is not documented."
+    },
+    {
+      "name": "Malik Tillman",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "United States",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Nuremberg, Germany. 'Tillman is a dual national of the United States and Germany due to his father being American and his mother German.' Represented the US after initially appearing for Germany youth teams."
+    },
+    {
+      "name": "Ricardo Pepi",
+      "position": "FW",
+      "birth_country": "United States",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in El Paso, Texas. Both parents Daniel and Annette Pepi immigrated to the United States from Ciudad Juárez, Mexico. Speaks Spanish at home and holds dual US-Mexican nationality."
+    },
+    {
+      "name": "Folarin Balogun",
+      "position": "FW",
+      "birth_country": "United States",
+      "father_origin": "Nigeria",
+      "mother_origin": "Nigeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Brooklyn, New York, to two Nigerian parents. Parents were living in London and visiting New York when his mother went into labor; she was unable to fly back due to pregnancy, so he was born in the US. Grew up in London."
+    }
+  ]
+}

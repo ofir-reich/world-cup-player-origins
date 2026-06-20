@@ -1,0 +1,106 @@
+{
+  "team": "Uruguay",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Uruguay vs Saudi Arabia, Group H, 15 June 2026 (4-4-2)",
+  "players": [
+    {
+      "name": "Fernando Muslera",
+      "position": "GK",
+      "birth_country": "Argentina",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Buenos Aires, Argentina; moved with family to Montevideo early in life. No parental birthplaces documented; family appears Uruguayan given relocation to Uruguay (medium confidence)."
+    },
+    {
+      "name": "Guillermo Varela",
+      "position": "DF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Montevideo, Uruguay. Wikipedia notes Uruguayan people of Galician/Spanish descent in categories, indicating distant ancestry only; no parent born abroad documented."
+    },
+    {
+      "name": "Sebastián Cáceres",
+      "position": "DF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in the Nuevo París neighbourhood of Montevideo, Uruguay on 18 August 1999. No parental origin information documented on Wikipedia."
+    },
+    {
+      "name": "Mathías Olivera",
+      "position": "DF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Montevideo, Uruguay on 31 October 1997. Full name Mathías Olivera Miramontes; no parental birthplace or foreign origin documented."
+    },
+    {
+      "name": "Matías Viña",
+      "position": "DF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Empalme Olmos, Uruguay on 9 November 1997. Full name Matías Nicolás Viña Susperreguy; no parental birthplace or foreign origin documented."
+    },
+    {
+      "name": "Federico Valverde",
+      "position": "MF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Montevideo, Uruguay. Parents Julio Valverde and Doris Dipetta; Wikipedia notes 'of Spanish and Italian descent' but this refers to distant ancestry — no parent documented as born abroad or immigrated."
+    },
+    {
+      "name": "Manuel Ugarte",
+      "position": "MF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Montevideo, Uruguay. Wikipedia notes 'of Basque descent' but this refers to distant ancestry only; no parent documented as born abroad or immigrated."
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "MF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Nueva Helvecia, Uruguay to Roberto Bentancur and Mary Colmán; Wikipedia notes 'of Irish, Spanish, and Swiss descent' (distant ancestry only). Parents are documented as Uruguayan-born; no foreign parent origin noted."
+    },
+    {
+      "name": "Maximiliano Araújo",
+      "position": "MF",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Montevideo, Uruguay on 15 February 2000. Full name Maximiliano Javier Araújo Vilches; no parental birthplace or foreign origin documented."
+    },
+    {
+      "name": "Federico Viñas",
+      "position": "FW",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Montevideo, Uruguay on 30 June 1998. Full name Federico Sebastián Viñas Barboza; no parental birthplace or foreign origin documented."
+    },
+    {
+      "name": "Darwin Núñez",
+      "position": "FW",
+      "birth_country": "Uruguay",
+      "father_origin": "Uruguay",
+      "mother_origin": "Uruguay",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Artigas, Uruguay. Father Bibiano Núñez (a builder) and mother Silvia Ribeiro (a milk bottle hawker) are named in Wikipedia with no documented foreign origin."
+    }
+  ]
+}

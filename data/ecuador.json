@@ -1,0 +1,106 @@
+{
+  "team": "Ecuador",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Ecuador vs Ivory Coast, Group E, 14 June 2026 (4-3-3)",
+  "players": [
+    {
+      "name": "Hernán Galíndez",
+      "position": "GK",
+      "birth_country": "Argentina",
+      "father_origin": "Argentina",
+      "mother_origin": "Argentina",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Rosario, Argentina; represents Ecuador having lived and played there for years. No parental origin documented; Argentine surname, assumed Argentine (low confidence)."
+    },
+    {
+      "name": "Alan Franco",
+      "position": "DF",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Jujan, Ecuador. No parental origin documented; Ecuadorian surname, assumed Ecuadorian (low confidence)."
+    },
+    {
+      "name": "Joel Ordóñez",
+      "position": "DF",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Guayaquil, Ecuador. No parental origin documented; Ecuadorian surname, assumed Ecuadorian (low confidence)."
+    },
+    {
+      "name": "Willian Pacho",
+      "position": "DF",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Quinindé, Ecuador. No parental origin documented; Ecuadorian surname, assumed Ecuadorian (low confidence)."
+    },
+    {
+      "name": "Piero Hincapié",
+      "position": "DF",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Esmeraldas, Ecuador on 9 January 2002. No parental origin documented; paternal surname Hincapié, maternal surname Reyna, both common in Ecuador (low confidence)."
+    },
+    {
+      "name": "John Yeboah",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Ghana",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Wikipedia: 'Yeboah was born in Hamburg, Germany, to a Ghanaian father and an Ecuadorian mother.' Previously represented Germany youth teams (U16–U20) before choosing Ecuador."
+    },
+    {
+      "name": "Moisés Caicedo",
+      "position": "MF",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Santo Domingo, Ecuador. Wikipedia notes he is 'the youngest of 10 siblings from a poor upbringing' but documents no foreign parental origins. Assumed Ecuadorian (low confidence)."
+    },
+    {
+      "name": "Pedro Vite",
+      "position": "MF",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Babahoyo, Ecuador. No parental origin documented; Ecuadorian surname, assumed Ecuadorian (low confidence)."
+    },
+    {
+      "name": "Alan Minda",
+      "position": "FW",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Esmeraldas, Ecuador. No parental origin documented; Ecuadorian surname, assumed Ecuadorian (low confidence)."
+    },
+    {
+      "name": "Gonzalo Plata",
+      "position": "FW",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Guayaquil, Ecuador on 1 November 2000. No parental origin documented; Ecuadorian surname, assumed Ecuadorian (low confidence)."
+    },
+    {
+      "name": "Enner Valencia",
+      "position": "FW",
+      "birth_country": "Ecuador",
+      "father_origin": "Ecuador",
+      "mother_origin": "Ecuador",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in San Lorenzo, Esmeraldas Province, Ecuador. Wikipedia notes he is of Afro-Ecuadorian descent. No foreign parental origins documented; assumed Ecuadorian (low confidence)."
+    }
+  ]
+}

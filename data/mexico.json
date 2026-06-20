@@ -1,0 +1,106 @@
+{
+  "team": "Mexico",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Mexico vs South Korea, Group A, 18 June 2026 (4-3-3)",
+  "players": [
+    {
+      "name": "Raúl Rangel",
+      "position": "GK",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Zapotlán el Grande, Jalisco, Mexico on 25 February 2000. No parental origin documented; Mexican surname, assumed Mexican (low confidence)."
+    },
+    {
+      "name": "Jorge Sánchez",
+      "position": "DF",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Torreón, Coahuila, Mexico on 10 December 1997. No parental origin documented; Mexican surname, assumed Mexican (low confidence)."
+    },
+    {
+      "name": "Edson Álvarez",
+      "position": "DF",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Tlalnepantla de Baz, Mexico. Wikipedia names his parents as Adriana Velázquez and Evaristo Álvarez; both bear Mexican surnames with no foreign origin documented."
+    },
+    {
+      "name": "Johan Vásquez",
+      "position": "DF",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Navojoa, Sonora, Mexico on 22 October 1998. No parental origin documented; Mexican surname, assumed Mexican (low confidence)."
+    },
+    {
+      "name": "Jesús Gallardo",
+      "position": "DF",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Cárdenas, Tabasco, Mexico on 15 August 1994. No parental origin documented; Mexican surname, assumed Mexican (low confidence)."
+    },
+    {
+      "name": "Luis Romo",
+      "position": "MF",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Los Mochis, Sinaloa, Mexico. No parental origin documented; Mexican surname, assumed Mexican (low confidence)."
+    },
+    {
+      "name": "Erik Lira",
+      "position": "MF",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Mexico City, Mexico on 8 May 2000. No parental origin documented; Mexican surname, assumed Mexican (low confidence)."
+    },
+    {
+      "name": "Brian Gutiérrez",
+      "position": "MF",
+      "birth_country": "United States",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Berwyn, Illinois, USA on 17 June 2003. Wikipedia states his parents 'are originally from San Juan de los Lagos, Jalisco,' Mexico. Represents Mexico internationally."
+    },
+    {
+      "name": "Roberto Alvarado",
+      "position": "FW",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Salamanca, Guanajuato, Mexico on 7 September 1998 to Guillermo Alvarado and Julia Hernández. Parents' origins not documented; Mexican surnames, assumed Mexican (low confidence)."
+    },
+    {
+      "name": "Raúl Jiménez",
+      "position": "FW",
+      "birth_country": "Mexico",
+      "father_origin": "Mexico",
+      "mother_origin": "Mexico",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Tepeji del Río, Hidalgo, Mexico on 5 May 1991. Full name Raúl Alonso Jiménez Rodríguez; both paternal (Jiménez) and maternal (Rodríguez) surnames are Mexican. No foreign parental origin documented."
+    },
+    {
+      "name": "Julián Quiñones",
+      "position": "FW",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "low", "mother": "medium" },
+      "note": "Born in Magüí Payán, Nariño, Colombia on 24 March 1997. His mother Gloria is Colombian; his biological father's origin is not documented but family is from Colombia. Became a Mexican citizen in 2023 and represents Mexico internationally."
+    }
+  ]
+}

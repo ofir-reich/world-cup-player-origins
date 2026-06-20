@@ -1,0 +1,106 @@
+{
+  "team": "Panama",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Panama vs Ghana, Group L, 17 June 2026 (4-4-2)",
+  "players": [
+    {
+      "name": "Orlando Mosquera",
+      "position": "GK",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in San Miguelito District, Panama on 25 December 1994. No parental origin documented."
+    },
+    {
+      "name": "Andrés Andrade",
+      "position": "DF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 16 October 1998 (full name Andrés Alberto Andrade Cedeño). No parental origin documented."
+    },
+    {
+      "name": "José Córdoba",
+      "position": "DF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 3 June 2001 (full name José Ángel Córdoba Chambers). Surname 'Chambers' may suggest West Indian ancestry but no parental birthplace documented; assumed Panamanian (low confidence)."
+    },
+    {
+      "name": "Jiovany Ramos",
+      "position": "DF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 26 January 1997. No parental origin documented."
+    },
+    {
+      "name": "César Blackman",
+      "position": "DF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 2 April 1998 (full name César Rodolfo Blackman Camarena). Anglophone surname typical of Panama's Afro-Caribbean (West Indian) community but no parental birthplace documented; assumed Panamanian (low confidence)."
+    },
+    {
+      "name": "Puma Rodríguez",
+      "position": "MF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama (full name José Luis Rodríguez Francis); raised in El Chorrillo by a single mother. No parental origin documented."
+    },
+    {
+      "name": "Cristian Martínez",
+      "position": "MF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 6 February 1997. No parental origin documented."
+    },
+    {
+      "name": "Carlos Harvey",
+      "position": "MF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 3 February 2000. Anglophone surname consistent with Panama's Afro-Caribbean community but no parental birthplace documented; assumed Panamanian (low confidence)."
+    },
+    {
+      "name": "Amir Murillo",
+      "position": "MF",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 11 February 1996 (full name Michael Amir Murillo Bermúdez). No parental origin documented."
+    },
+    {
+      "name": "Cecilio Waterman",
+      "position": "FW",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Panama City, Panama on 13 April 1991 (full name Cecilio Alfonso Waterman Ruiz). Anglophone surname consistent with Panama's Afro-Caribbean (West Indian) community but no parental birthplace documented; assumed Panamanian (low confidence)."
+    },
+    {
+      "name": "Yoel Bárcenas",
+      "position": "FW",
+      "birth_country": "Panama",
+      "father_origin": "Panama",
+      "mother_origin": "Panama",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Colón, Panama on 23 October 1993. No parental origin documented."
+    }
+  ]
+}

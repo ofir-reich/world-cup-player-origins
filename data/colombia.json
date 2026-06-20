@@ -1,0 +1,106 @@
+{
+  "team": "Colombia",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Colombia vs Uzbekistan, Group K, 17 June 2026, Mexico City (4-2-3-1)",
+  "players": [
+    {
+      "name": "Camilo Vargas",
+      "position": "GK",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Bogotá, Colombia on 9 March 1989. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "Daniel Muñoz",
+      "position": "DF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Amalfi, Antioquia, Colombia on 26 May 1996. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "Davinson Sánchez",
+      "position": "DF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Caloto, Cauca, Colombia on 12 June 1996 to Afro-Colombian parents. His mother Esther Mina worked in Caloto; father also Colombian. No foreign parental origin documented."
+    },
+    {
+      "name": "Jhon Lucumí",
+      "position": "DF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Cali, Colombia on 26 June 1998. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "Johan Mojica",
+      "position": "DF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Cali, Colombia on 21 August 1992. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "Jefferson Lerma",
+      "position": "MF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in El Cerrito, Valle del Cauca, Colombia. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "Gustavo Puerta",
+      "position": "MF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in La Victoria, Valle del Cauca, Colombia on 23 July 2003. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "Jhon Arias",
+      "position": "MF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Quibdó, Chocó, Colombia on 21 September 1997. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "James Rodríguez",
+      "position": "MF",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Cúcuta, Colombia. Father Wilson James Rodríguez Bedoya was born in Pijao, Quindío, Colombia and played for the Colombian national team; mother María del Pilar Rubio is also Colombian."
+    },
+    {
+      "name": "Luis Suárez",
+      "position": "FW",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Santa Marta, Colombia on 2 December 1997. No parental origin documented; assumed Colombian (medium confidence)."
+    },
+    {
+      "name": "Luis Díaz",
+      "position": "FW",
+      "birth_country": "Colombia",
+      "father_origin": "Colombia",
+      "mother_origin": "Colombia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Barrancas, La Guajira, Colombia on 13 January 1997. Father Luis Manuel 'Mane' Díaz and mother Cilenis Marulanda are both from Barrancas, Colombia (father was kidnapped in his hometown in 2023)."
+    }
+  ]
+}

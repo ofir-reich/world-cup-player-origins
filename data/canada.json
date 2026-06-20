@@ -1,0 +1,106 @@
+{
+  "team": "Canada",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Canada vs Qatar, Group B, 18 June 2026, Vancouver (4-4-2)",
+  "players": [
+    {
+      "name": "Maxime Crépeau",
+      "position": "GK",
+      "birth_country": "Canada",
+      "father_origin": "Canada",
+      "mother_origin": "Canada",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Greenfield Park, Quebec. Father Rémi Crépeau born in Quebec; mother Huguette Brodeur born in Greenfield Park, QC. Fully French-Canadian family."
+    },
+    {
+      "name": "Richie Laryea",
+      "position": "DF",
+      "birth_country": "Canada",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Toronto, Ontario. MLS article states 'born to Ghanaian parents'; speaks Ga. Mother's father played professionally in Ghana. Both parents documented as Ghanaian (medium confidence as exact birthplaces not individually confirmed)."
+    },
+    {
+      "name": "Luc de Fougerolles",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "Canada",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in London, England. Wikipedia: 'born in England to a French-Canadian father and an Iranian-born English mother.' Father identified as French-Canadian (born in Canada, medium confidence as birthplace not individually confirmed); mother explicitly described as Iranian-born."
+    },
+    {
+      "name": "Derek Cornelius",
+      "position": "DF",
+      "birth_country": "Canada",
+      "father_origin": "Barbados",
+      "mother_origin": "Jamaica",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Wikipedia: 'Cornelius was born in Ajax, Ontario to a Barbadian father and a Jamaican mother.'"
+    },
+    {
+      "name": "Alistair Johnston",
+      "position": "DF",
+      "birth_country": "Canada",
+      "father_origin": "Canada",
+      "mother_origin": "Northern Ireland",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Wikipedia: 'born in Vancouver' with 'a Canadian father and an Irish mother from Poleglass' in Northern Ireland. Mother's origin documented as Northern Ireland (part of UK/Ireland)."
+    },
+    {
+      "name": "Ali Ahmed",
+      "position": "MF",
+      "birth_country": "Canada",
+      "father_origin": "Ethiopia",
+      "mother_origin": "Ethiopia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Toronto, Ontario. Wikipedia: 'born in Toronto to parents from Ethiopia.' Feature article (iqra.ca): 'born to Ethiopian parents, Afendi and Muna, who emigrated from Badeaa in the Oromia region.' Family lived in Italy before settling in Canada."
+    },
+    {
+      "name": "Stephen Eustáquio",
+      "position": "MF",
+      "birth_country": "Canada",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Leamington, Ontario. Wikipedia: 'born in Canada to Portuguese parents'; moved to Portugal at age 7 and holds dual Canadian-Portuguese nationality."
+    },
+    {
+      "name": "Ismaël Koné",
+      "position": "MF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Abidjan, Ivory Coast. Father Salifou Koné and mother Suzanne Diomandé both born in Yopougon, Côte d'Ivoire. Family relocated to Montréal in 2010 when he was seven."
+    },
+    {
+      "name": "Tajon Buchanan",
+      "position": "MF",
+      "birth_country": "Canada",
+      "father_origin": "Jamaica",
+      "mother_origin": "Jamaica",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in Brampton, Ontario. Mother Geraldeen Taylor was born in Jamaica. Father (deceased) also of Jamaican descent; father's exact birthplace not individually confirmed (medium confidence). Holds Canadian and Jamaican citizenship."
+    },
+    {
+      "name": "Jonathan David",
+      "position": "FW",
+      "birth_country": "United States",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Wikipedia: 'David was born in Brooklyn, New York, to Haitian parents. The family moved to Port-au-Prince when he was three months old.' Grew up in Belgium; holds Canadian, Haitian, and Belgian nationalities."
+    },
+    {
+      "name": "Cyle Larin",
+      "position": "FW",
+      "birth_country": "Canada",
+      "father_origin": "Jamaica",
+      "mother_origin": "Canada",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Brampton, Ontario. Father was born in Clarendon, Jamaica; mother Patricia Larin was born in Montreal, Canada."
+    }
+  ]
+}

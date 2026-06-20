@@ -1,0 +1,106 @@
+{
+  "team": "Paraguay",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Paraguay vs USA, Group D, 12 June 2026 (4-4-2)",
+  "players": [
+    {
+      "name": "Orlando Gil",
+      "position": "GK",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in San Lorenzo, Paraguay on 11 June 2000. No parental origin documented; Paraguayan surname, assumed Paraguayan (low confidence)."
+    },
+    {
+      "name": "Gustavo Gómez",
+      "position": "DF",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in San Juan Bautista, Paraguay on 6 May 1993. Full name Gustavo Raúl Gómez Portillo. No parental origin documented; assumed Paraguayan (low confidence)."
+    },
+    {
+      "name": "Omar Alderete",
+      "position": "DF",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Asunción, Paraguay on 26 December 1996. No parental origin documented; assumed Paraguayan (low confidence)."
+    },
+    {
+      "name": "Gustavo Velázquez",
+      "position": "DF",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Itauguá, Paraguay on 17 April 1991. No parental origin documented; assumed Paraguayan (low confidence)."
+    },
+    {
+      "name": "Alejandro Romero Gamarra",
+      "position": "MF",
+      "birth_country": "Argentina",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Ciudadela, Buenos Aires, Argentina to Paraguayan parents. Wikipedia: 'born in Argentina to Paraguayan parents.' Eligible for Paraguay through parentage."
+    },
+    {
+      "name": "Andrés Cubas",
+      "position": "MF",
+      "birth_country": "Argentina",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Aristóbulo del Valle, Misiones, Argentina. Wikipedia states: 'Cubas's father is from Paraguay.' Mother's origin not documented; assumed Paraguayan given Paraguayan family context (low confidence)."
+    },
+    {
+      "name": "Junior Alonso",
+      "position": "MF",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Asunción, Paraguay on 9 February 1993. Full name Júnior Osmar Ignacio Alonso Mujica. No parental origin documented; assumed Paraguayan (low confidence)."
+    },
+    {
+      "name": "Ramón Sosa",
+      "position": "MF",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Maracaná, Paraguay. No parental origin documented; assumed Paraguayan (low confidence)."
+    },
+    {
+      "name": "Diego Gómez",
+      "position": "MF",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in San Juan Bautista, Paraguay on 27 March 2003. Full name Diego Alexander Gómez Amarilla. No parental origin documented; assumed Paraguayan (low confidence)."
+    },
+    {
+      "name": "Álex Arce",
+      "position": "FW",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "medium" },
+      "note": "Born in Carapeguá, Paraguay on 16 June 1995. Mother identified as Miriam Barrios. Father's origin not documented. No foreign parental origin documented; assumed Paraguayan."
+    },
+    {
+      "name": "Julio Enciso",
+      "position": "FW",
+      "birth_country": "Paraguay",
+      "father_origin": "Paraguay",
+      "mother_origin": "Paraguay",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Caaguazú, Paraguay on 23 January 2004. Full name Julio César Enciso Espínola. No parental origin documented; assumed Paraguayan (low confidence)."
+    }
+  ]
+}
