@@ -1,0 +1,106 @@
+{
+  "team": "Portugal",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Portugal vs DR Congo, World Cup group stage, 17 June 2026 (4-2-3-1)",
+  "players": [
+    {
+      "name": "Diogo Costa",
+      "position": "GK",
+      "birth_country": "Switzerland",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Rothrist, Switzerland, to Portuguese emigrant parents Francisco Costa and Armanda Meireles; moved to Santo Tirso, Portugal, aged 7."
+    },
+    {
+      "name": "João Cancelo",
+      "position": "DF",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Barreiro, Portugal, to parents Jose and Filomena Cancelo; no documented foreign heritage."
+    },
+    {
+      "name": "Tomás Araújo",
+      "position": "DF",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Portugal; parents' origins not documented, assumed Portuguese."
+    },
+    {
+      "name": "Renato Veiga",
+      "position": "DF",
+      "birth_country": "Portugal",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Lisbon; son of former Cape Verde international footballer Nélson Veiga, raised partly in Cyprus and Morocco during his father's career; mother Tânia Leiria Palma is Portuguese."
+    },
+    {
+      "name": "Nuno Mendes",
+      "position": "DF",
+      "birth_country": "Portugal",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Sintra, Portugal, of explicitly stated Cape Verdean descent through his family."
+    },
+    {
+      "name": "João Neves",
+      "position": "MF",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Tavira, Portugal; father a police officer/coach, mother a PE teacher, both Portuguese with no documented foreign heritage."
+    },
+    {
+      "name": "Vitinha",
+      "position": "MF",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Vila das Aves, Portugal; son of former footballer Vítor Manuel Ferreira and Ana Maria, both Portuguese."
+    },
+    {
+      "name": "Bernardo Silva",
+      "position": "MF",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Lisbon to Paulo Silva and Maria João Mota Veiga, both explicitly described as Portuguese."
+    },
+    {
+      "name": "Bruno Fernandes",
+      "position": "MF",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Maia, Portugal, to José Fernandes and Virgínia/Cristina Borges, both ethnically Portuguese from the Porto area."
+    },
+    {
+      "name": "Pedro Neto",
+      "position": "FW",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Mozambique",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in Viana do Castelo, Portugal; father Pedro Neto Sr. is Portuguese, mother Cristina Lomba is of Mozambican descent."
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "position": "FW",
+      "birth_country": "Portugal",
+      "father_origin": "Portugal",
+      "mother_origin": "Portugal",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Funchal, Madeira, to José Dinis Aveiro and Maria Dolores dos Santos Aveiro, both from Madeira; a great-grandmother's Cape Verdean origin is too distant to count."
+    }
+  ]
+}

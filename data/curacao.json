@@ -1,0 +1,106 @@
+{
+  "team": "Curaçao",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Curaçao vs Ecuador, Group draw, 20 June 2026 (0-0); XI inferred from most-capped regulars in each position from the 26-man 2026 World Cup squad",
+  "players": [
+    {
+      "name": "Eloy Room",
+      "position": "GK",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in the Netherlands; explicitly eligible for Curaçao through his father. Mother's origin not documented, assumed Curaçaoan."
+    },
+    {
+      "name": "Juriën Gaari",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in the Netherlands; plays for Curaçao but no specific parental heritage documented, assumed Curaçaoan descent."
+    },
+    {
+      "name": "Sherel Floranus",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in the Netherlands; Wikipedia states he 'is of Curaçaoan descent' without per-parent detail."
+    },
+    {
+      "name": "Roshon van Eijma",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in the Netherlands, listed among 'Dutch people of Curaçaoan descent'; no specific parental detail found."
+    },
+    {
+      "name": "Joshua Brenet",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in the Netherlands; Wikipedia states he 'is of Curaçaoan descent' without per-parent detail."
+    },
+    {
+      "name": "Leandro Bacuna",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Captain. Born in the Netherlands 'to parents of Afro-Curaçaoan descent'."
+    },
+    {
+      "name": "Juninho Bacuna",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in the Netherlands; younger brother of Leandro Bacuna, sharing the same Afro-Curaçaoan parental heritage."
+    },
+    {
+      "name": "Godfried Roemeratoe",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Indonesia",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in the Netherlands; surname traces to Seram, Maluku Islands, Indonesia, reported as being 'of Indonesian (Moluccan) descent'; also categorized as of Curaçaoan descent on his mother's side (assumed)."
+    },
+    {
+      "name": "Brandley Kuwas",
+      "position": "FW",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in the Netherlands; Wikipedia states he 'is of Curaçaoan descent' without per-parent detail."
+    },
+    {
+      "name": "Kenji Gorré",
+      "position": "FW",
+      "birth_country": "Netherlands",
+      "father_origin": "Suriname",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Spijkenisse, Netherlands, to Surinamese father Dean Gorré (former Dutch international footballer) and Curaçaoan mother Magali."
+    },
+    {
+      "name": "Jearl Margaritha",
+      "position": "FW",
+      "birth_country": "Netherlands",
+      "father_origin": "Curaçao",
+      "mother_origin": "Curaçao",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in the Netherlands; described only as 'eligible to play for Curaçao through his heritage', no specific parental detail, assumed Curaçaoan."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "team": "Haiti",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Predicted Haiti starting XI (4-4-2) vs Morocco, World Cup Group C, June 2026 (Sports Mole)",
+  "players": [
+    {
+      "name": "Johny Placide",
+      "position": "GK",
+      "birth_country": "France",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Montfermeil, France, to Haitian parents; captain of Haiti."
+    },
+    {
+      "name": "Carlens Arcus",
+      "position": "DF",
+      "birth_country": "Haiti",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Port-au-Prince, Haiti; parents' origins undocumented, assumed Haitian."
+    },
+    {
+      "name": "Hannes Delcroix",
+      "position": "DF",
+      "birth_country": "Haiti",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born Piterson Désir in Petite-Rivière-de-l'Artibonite, Haiti, to Haitian biological parents; adopted at age 2 by a Belgian couple and raised in Belgium."
+    },
+    {
+      "name": "Ricardo Adé",
+      "position": "DF",
+      "birth_country": "Haiti",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Saint-Marc, Haiti, to parents Karl Henry Adé and Mona Chéry."
+    },
+    {
+      "name": "Martin Expérience",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in France of Haitian descent; parents' specific origins undocumented."
+    },
+    {
+      "name": "Louicius Deedson",
+      "position": "MF",
+      "birth_country": "Haiti",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Tabarre, Haiti; parents' origins undocumented, assumed Haitian."
+    },
+    {
+      "name": "Jean-Ricner Bellegarde",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Colombes, France, of Haitian descent; parents' specific origins undocumented."
+    },
+    {
+      "name": "Danley Jean Jacques",
+      "position": "MF",
+      "birth_country": "Haiti",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Petit-Goâve, Haiti; parents' origins undocumented, assumed Haitian."
+    },
+    {
+      "name": "Ruben Providence",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Lagny-sur-Marne, France, to Haitian parents; exhausted French youth eligibility before choosing Haiti."
+    },
+    {
+      "name": "Wilson Isidor",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Haiti",
+      "mother_origin": "Madagascar",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Rennes, France, to Haitian father Jean Isidor and Malagasy mother Marie-Louise Rakotomalala; switched to Haiti in March 2026."
+    },
+    {
+      "name": "Frantzdy Pierrot",
+      "position": "FW",
+      "birth_country": "Haiti",
+      "father_origin": "Haiti",
+      "mother_origin": "Haiti",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Cap-Haïtien, Haiti; emigrated to Massachusetts, USA, as a child where his father had moved earlier for work."
+    }
+  ]
+}

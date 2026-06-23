@@ -1,0 +1,106 @@
+{
+  "team": "Netherlands",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Netherlands vs Sweden, Group F, 20 June 2026 (4-3-3, won 5-1)",
+  "players": [
+    {
+      "name": "Bart Verbruggen",
+      "position": "GK",
+      "birth_country": "Netherlands",
+      "father_origin": "Netherlands",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Zwolle; no parental origin documented, Dutch family assumed."
+    },
+    {
+      "name": "Denzel Dumfries",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Aruba",
+      "mother_origin": "Suriname",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Rotterdam to an Aruban father, Boris, and a Surinamese mother, Marleen."
+    },
+    {
+      "name": "Jan Paul van Hecke",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Netherlands",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Arnemuiden; father Guus van Hecke was Dutch, mother's origin undocumented."
+    },
+    {
+      "name": "Virgil van Dijk",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Netherlands",
+      "mother_origin": "Suriname",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Breda to a Dutch father, Ron, and an Afro-Surinamese mother, Hellen Chin Fo Sieeuw."
+    },
+    {
+      "name": "Micky van de Ven",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Netherlands",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Wormer to father Marcel van de Ven (ex-police investigator turned TV personality) and mother Bianca Huijgen; described as of Dutch ethnicity."
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Suriname",
+      "mother_origin": "Suriname",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Amsterdam to Afro-Surinamese parents, Ryan Sr. and Aretha, who emigrated from Suriname; he holds dual Dutch-Surinamese citizenship."
+    },
+    {
+      "name": "Frenkie de Jong",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Netherlands",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Gorinchem to Dutch parents John de Jong and Marjon Schuchhard-de Bruijn."
+    },
+    {
+      "name": "Tijjani Reijnders",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Netherlands",
+      "mother_origin": "Indonesia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Zwolle to Dutch father Martin Reijnders (former footballer) and a Moluccan (Indonesian) mother; he was eligible to play for Indonesia."
+    },
+    {
+      "name": "Crysencio Summerville",
+      "position": "FW",
+      "birth_country": "Netherlands",
+      "father_origin": "Suriname",
+      "mother_origin": "Suriname",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Rotterdam to Afro-Surinamese parents."
+    },
+    {
+      "name": "Donyell Malen",
+      "position": "FW",
+      "birth_country": "Netherlands",
+      "father_origin": "Suriname",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Wieringen; of Surinamese descent through his father, his parents separated when he was young and his mother's origin is undocumented."
+    },
+    {
+      "name": "Cody Gakpo",
+      "position": "FW",
+      "birth_country": "Netherlands",
+      "father_origin": "Togo",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Eindhoven; his father was born in Togo with Ghanaian ancestry, while his mother is Dutch."
+    }
+  ]
+}

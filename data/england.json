@@ -1,0 +1,106 @@
+{
+  "team": "England",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Projected England XI, 2026 World Cup cycle (4-3-3): Pickford; James, Stones, Konsa, O'Reilly; Rice, Anderson, Bellingham; Madueke, Kane, Gordon",
+  "players": [
+    {
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Washington, Tyne and Wear, to Lee and Sue Pickford; no documented foreign heritage."
+    },
+    {
+      "name": "Reece James",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "Grenada / Dominica",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Redbridge, London; he is of Grenadian and Dominican descent through father Nigel James, English through mother Emma."
+    },
+    {
+      "name": "John Stones",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Barnsley to Peter and Janet Stones, a working-class Yorkshire family with no documented foreign heritage."
+    },
+    {
+      "name": "Ezri Konsa",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "DR Congo",
+      "mother_origin": "Angola",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Newham, London, to a DR Congolese father and an Angolan mother; two languages were spoken at home."
+    },
+    {
+      "name": "Nico O'Reilly",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "Jamaica",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Manchester, raised by mother Holli; his father is of Jamaican descent."
+    },
+    {
+      "name": "Declan Rice",
+      "position": "MF",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Kingston upon Thames; parents Sean and Stephanie were both raised in London, though paternal grandparents were from County Cork, Ireland (grandparent-level heritage only)."
+    },
+    {
+      "name": "Elliot Anderson",
+      "position": "MF",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Whitley Bay to Iain and Helen Anderson; a paternal grandmother was born in Glasgow, but parents themselves are English."
+    },
+    {
+      "name": "Jude Bellingham",
+      "position": "MF",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "Kenya",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in Stourbridge; father Mark Bellingham is English (with a distant Irish-surname grandmother), mother Denise is of Kenyan descent."
+    },
+    {
+      "name": "Noni Madueke",
+      "position": "FW",
+      "birth_country": "England",
+      "father_origin": "Nigeria",
+      "mother_origin": "Nigeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Barnet, London, to Nigerian (Igbo) parents; father Ifeanyi Madueke is his agent."
+    },
+    {
+      "name": "Harry Kane",
+      "position": "FW",
+      "birth_country": "England",
+      "father_origin": "Ireland",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in London; father Patrick Kane was born in County Galway, Ireland, and emigrated to London."
+    },
+    {
+      "name": "Anthony Gordon",
+      "position": "FW",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Kirkdale, Liverpool, to Keith and Nadine Gordon; family is described as of Irish and Scottish descent, but no documented evidence either parent was born abroad."
+    }
+  ]
+}

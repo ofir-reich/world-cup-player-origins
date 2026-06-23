@@ -1,0 +1,106 @@
+{
+  "team": "Scotland",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Predicted Scotland XI for 2026 World Cup (Group C, vs Brazil), 4-3-3: Gordon; Hickey, Hendry, McKenna, Robertson; Ferguson, Christie, McTominay; Gannon-Doak, McGinn; Dykes",
+  "players": [
+    {
+      "name": "Craig Gordon",
+      "position": "GK",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Edinburgh; father David Gordon was a goalkeeper for East of Scotland clubs, mother Heather rarely discussed publicly."
+    },
+    {
+      "name": "Aaron Hickey",
+      "position": "DF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Glasgow. No parental origin documented; assumed Scottish (low confidence)."
+    },
+    {
+      "name": "Jack Hendry",
+      "position": "DF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Glasgow; parents Iain and Karen Hendry run an oak-frame house business in Scotland, no foreign heritage documented."
+    },
+    {
+      "name": "Scott McKenna",
+      "position": "DF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Kirriemuir; father Ian played semi-pro football in Scotland. Distantly related to Alan Gilzean via maternal grandmother (too distant to count)."
+    },
+    {
+      "name": "Andy Robertson",
+      "position": "DF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Glasgow to Brian (raised in Maryhill) and Pauline; Irish descent traces only to a grandmother, so parents counted as Scottish."
+    },
+    {
+      "name": "Lewis Ferguson",
+      "position": "MF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Hamilton; son of former Rangers/Scotland midfielder Derek Ferguson and nephew of Barry Ferguson, no foreign heritage documented."
+    },
+    {
+      "name": "Ryan Christie",
+      "position": "MF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Inverness; son of former Celtic/Inverness CT midfielder Charlie Christie, no foreign heritage documented."
+    },
+    {
+      "name": "Scott McTominay",
+      "position": "MF",
+      "birth_country": "England",
+      "father_origin": "Scotland",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Lancaster, England; father Frank born and raised in Glasgow/Helensburgh, Scotland, mother Julie from Morecambe, England — qualifies for Scotland via his father."
+    },
+    {
+      "name": "Ben Gannon-Doak",
+      "position": "FW",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Dalry, Ayrshire; parents Graham Gannon and Deann Doak, no foreign heritage documented (low confidence, name-based assumption)."
+    },
+    {
+      "name": "John McGinn",
+      "position": "MF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Glasgow, raised in Clydebank; parents Stephen and Mary McGinn, both Scottish — a family connection to Hungary is via an uncle, not a parent."
+    },
+    {
+      "name": "Lyndon Dykes",
+      "position": "FW",
+      "birth_country": "Australia",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born on the Gold Coast, Australia; both parents are from Dumfriesshire, Scotland (father from Moniaive), per his own account: 'My parents are Scottish.'"
+    }
+  ]
+}

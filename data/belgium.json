@@ -1,0 +1,106 @@
+{
+  "team": "Belgium",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Belgium vs Iran, Group G, 21 June 2026 (4-3-3-ish midfield diamond)",
+  "players": [
+    {
+      "name": "Thibaut Courtois",
+      "position": "GK",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Belgium",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Bree; father Thierry is Walloon, mother Gitte (née Lambrechts) is Flemish, both former volleyball players."
+    },
+    {
+      "name": "Thomas Meunier",
+      "position": "DF",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Belgium",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Sainte-Ode, Belgian Ardennes; raised by his Belgian mother after his parents divorced, no documented foreign heritage."
+    },
+    {
+      "name": "Nathan Ngoy",
+      "position": "DF",
+      "birth_country": "Belgium",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Brussels (Molenbeek) to parents with ties to the Democratic Republic of the Congo; holds Belgian and DRC dual citizenship."
+    },
+    {
+      "name": "Brandon Mechele",
+      "position": "DF",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Belgium",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Bredene, West Flanders; no documented heritage beyond his Belgian surname and upbringing."
+    },
+    {
+      "name": "Maxim De Cuyper",
+      "position": "DF",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Belgium",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Knokke-Heist; father Fred De Cuyper played local football at KFC Heist, a Belgian family."
+    },
+    {
+      "name": "Nicolas Raskin",
+      "position": "MF",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Belgium",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Liège; son of Thierry Raskin, a former Belgian professional footballer."
+    },
+    {
+      "name": "Youri Tielemans",
+      "position": "MF",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Sint-Pieters-Leeuw; father is Flemish Belgian, mother is Congolese, both judo instructors."
+    },
+    {
+      "name": "Alexis Saelemaekers",
+      "position": "MF",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Belgium",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Sint-Agatha-Berchem, Brussels; father Romelu runs a grocery store chain, no documented foreign heritage."
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "position": "MF",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Burundi",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Drongen, Ghent; father Herwig is Belgian, mother Anna was born in Burundi to Flemish parents working abroad before the family settled in Belgium."
+    },
+    {
+      "name": "Leandro Trossard",
+      "position": "FW",
+      "birth_country": "Belgium",
+      "father_origin": "Belgium",
+      "mother_origin": "Belgium",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Maasmechelen, Limburg, to Peter Trossard and Linda Scheepers, both Belgian."
+    },
+    {
+      "name": "Romelu Lukaku",
+      "position": "FW",
+      "birth_country": "Belgium",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Antwerp to a Congolese immigrant family; father Roger Lukaku was a Zaire/DR Congo international footballer."
+    }
+  ]
+}

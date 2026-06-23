@@ -1,0 +1,106 @@
+{
+  "team": "Spain",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Spain typical 2025/26 starting XI under Luis de la Fuente (4-3-3, Euro 2024-winning core)",
+  "players": [
+    {
+      "name": "Unai Simón",
+      "position": "GK",
+      "birth_country": "Spain",
+      "father_origin": "Spain",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Vitoria-Gasteiz, Álava; father a Guardia Civil officer from Zamora, mother an Ertzaintza officer from the Basque Country, both Spanish."
+    },
+    {
+      "name": "Dani Carvajal",
+      "position": "DF",
+      "birth_country": "Spain",
+      "father_origin": "Spain",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Leganés, Madrid; father is a National Police inspector, no foreign parental origin documented."
+    },
+    {
+      "name": "Robin Le Normand",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "France",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Pabu, Brittany, France; naturalised Spanish in 2023 after seven years in Spain, but parents are French (brother Théo also a footballer in France)."
+    },
+    {
+      "name": "Aymeric Laporte",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "France",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born near Agen, France, to Lionel and Marie-José Laporte, both from Agen; naturalised Spanish in 2021."
+    },
+    {
+      "name": "Marc Cucurella",
+      "position": "DF",
+      "birth_country": "Spain",
+      "father_origin": "Spain",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Alella, Catalonia; no foreign parental origin documented, Catalan family assumed."
+    },
+    {
+      "name": "Rodri",
+      "position": "MF",
+      "birth_country": "Spain",
+      "father_origin": "Spain",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Madrid as Rodrigo Hernández Cascante; no foreign parental origin documented."
+    },
+    {
+      "name": "Pedri",
+      "position": "MF",
+      "birth_country": "Spain",
+      "father_origin": "Spain",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Bajamar, Tenerife, Canary Islands; no foreign parental origin documented."
+    },
+    {
+      "name": "Martín Zubimendi",
+      "position": "MF",
+      "birth_country": "Spain",
+      "father_origin": "Spain",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in San Sebastián; father a retired university professor, mother a teacher, both Basque/Spanish."
+    },
+    {
+      "name": "Lamine Yamal",
+      "position": "FW",
+      "birth_country": "Spain",
+      "father_origin": "Morocco",
+      "mother_origin": "Equatorial Guinea",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Esplugues de Llobregat, Catalonia; father Mounir Nasraoui from Larache, Morocco, mother Sheila Ebana from Bata, Equatorial Guinea."
+    },
+    {
+      "name": "Nico Williams",
+      "position": "FW",
+      "birth_country": "Spain",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Pamplona to Ghanaian refugee parents who crossed the Sahara to reach Melilla, Spain; brother Iñaki plays for Ghana."
+    },
+    {
+      "name": "Álvaro Morata",
+      "position": "FW",
+      "birth_country": "Spain",
+      "father_origin": "Spain",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Madrid to Alfonso Morata and Susana Martín; no foreign parental origin documented."
+    }
+  ]
+}
