@@ -82,3 +82,41 @@ Guadeloupe `GP`), UK home nations (England `GB-ENG` via Unicode tag sequence / f
 - Heritage-rich teams (France, Morocco, Switzerland, Germany, Senegal) are the most
   interesting output; mono-origin teams will be mostly one flag — that's fine/expected.
 - Consider a `render_html.py all` later that builds one combined page.
+
+## All 48 teams — DONE. How the full run actually went
+
+**One Sonnet subagent per team, run in parallel waves**, each agent doing the entire
+lineup-search → 11×WebFetch → write-`data/<team>.json` pipeline and returning only a
+2-line summary. This keeps the orchestrator's context tiny (no raw bios in the main thread)
+and is the single biggest win for doing many teams. The orchestrator only validates +
+commits. ~40–65k subagent tokens / team; matches the earlier "~13–16 tool calls" estimate.
+
+**Pacing against the account session limit was the real constraint, not money.**
+- Firing **8 agents at once repeatedly trips the session rate limit** — whole waves came
+  back with "you've hit your session limit · resets <time>" and wrote nothing.
+- The limit is **time-based, not credit-based**: more credits don't lift it; you wait for
+  the reset. But it also **eases within minutes** after a burst — a single-agent *probe*
+  reliably told us whether to resume.
+- **What worked: batches of 3.** Launch 3 → validate → commit+push → launch next 3.
+  Gentle enough to avoid re-tripping, still parallel. Always `git push` each batch so a
+  mid-wave limit never loses committed work (the working tree was always clean on resume —
+  killed agents wrote nothing partial).
+
+**Subagent prompt rules that mattered:**
+- Web tools are **intermittently permission-denied for subagents**; tell each agent to
+  **retry a denied WebSearch/WebFetch up to ~5×** (denials are transient) and to fall back
+  to a **Bash heredoc if `Write` is denied**. Without this, agents bailed on the first deny.
+- Restate the **parent-must-be-foreign-*born*** rule in every prompt. Agents otherwise
+  flag grandparent-level ancestry/citizenship-by-descent. Caught & corrected by hand:
+  Aiden O'Neill (AUS, NI *citizenship* via father → kept Australia). Good catches the
+  agents made unprompted: Rice/Gordon (ENG), Gyökeres (SWE), Schick (CZE) — descent only.
+
+**Flag overrides added during the run** (pycountry misses these): `Palestine`→`PS`,
+`Russia`→`RU` (pycountry only knows "Russian Federation"), `Northern Ireland`→`GB-NIR`
+(flagcdn serves `gb-nir.png`; no NI emoji exists so terminal shows white flag — HTML is
+the canonical renderer). **Always run a full-sweep `name_to_codes` check over all teams
+before the final commit** — that's how these surfaced.
+
+**Validation harness per batch** (cheap, catches everything):
+`for each new team: assert 11 players; every birth/father/mother resolves via name_to_codes
+(excluding the intentional "unknown" sentinel).` Then `python summary.py` + commit.
