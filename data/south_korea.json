@@ -1,0 +1,106 @@
+{
+  "team": "South Korea",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "South Korea starting XI vs Czechia, 2026 World Cup group match (4-2-3-1 under Hong Myung-bo)",
+  "players": [
+    {
+      "name": "Kim Seung-gyu",
+      "position": "GK",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Ulsan; father Kim Gwang-u supported his career, mother's details kept private, both Korean."
+    },
+    {
+      "name": "Seol Young-woo",
+      "position": "DF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Ulsan; no foreign heritage documented, standard Korean background."
+    },
+    {
+      "name": "Kim Min-jae",
+      "position": "DF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Tongyeong to father Kim Tae-gyun (ex-judoka) and mother Lee Yoo-sun (ex-track athlete), both Korean."
+    },
+    {
+      "name": "Cho Yu-min",
+      "position": "DF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Daegu; no foreign heritage documented, standard Korean background."
+    },
+    {
+      "name": "Lee Tae-seok",
+      "position": "DF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Son of former Korea national team player Lee Eul-yong; both parents Korean."
+    },
+    {
+      "name": "Paik Seung-ho",
+      "position": "MF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Seoul to father Paik Il-yeong, an athletics professor, and mother Kim Mi-hee, both Korean."
+    },
+    {
+      "name": "Hwang In-beom",
+      "position": "MF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Daejeon; father Hwang Seo-yeon documented as supportive, mother undisclosed, both Korean."
+    },
+    {
+      "name": "Son Heung-min",
+      "position": "MF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Chuncheon to father Son Woong-jung, a former pro footballer, and mother Eun Ja-sook, both Korean."
+    },
+    {
+      "name": "Lee Jae-sung",
+      "position": "MF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "low", "mother": "medium" },
+      "note": "Born in Ulsan; mother named as Choi Soo-yeol, both parents Korean."
+    },
+    {
+      "name": "Lee Kang-in",
+      "position": "MF",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Incheon to father Lee Un-seong, a taekwondo instructor from Chungcheongnam-do, and mother Kang Seong-mi from Jeollanam-do."
+    },
+    {
+      "name": "Oh Hyeon-gyu",
+      "position": "FW",
+      "birth_country": "South Korea",
+      "father_origin": "South Korea",
+      "mother_origin": "South Korea",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Namyangju; father Oh Hae-seon ran a restaurant to support his career, both parents Korean."
+    }
+  ]
+}

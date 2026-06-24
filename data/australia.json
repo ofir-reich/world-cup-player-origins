@@ -1,0 +1,106 @@
+{
+  "team": "Australia",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Australia 2-0 Türkiye, Group D, 14 June 2026 (5-4-1)",
+  "players": [
+    {
+      "name": "Patrick Beach",
+      "position": "GK",
+      "birth_country": "Australia",
+      "father_origin": "Australia",
+      "mother_origin": "Australia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in western Sydney; father Mark an amateur goalkeeper, mother Jo a softball player, no documented foreign heritage."
+    },
+    {
+      "name": "Alessandro Circati",
+      "position": "DF",
+      "birth_country": "Italy",
+      "father_origin": "Italy",
+      "mother_origin": "Italy",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Fidenza; father Gianfranco (ex-pro footballer) and mother Teresa both Italian, family moved to Perth when he was one."
+    },
+    {
+      "name": "Harry Souttar",
+      "position": "DF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Australia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Luthermuir, Scotland, to Scottish father Jack (ex-Brechin City player) and Australian mother Heather, born in Port Hedland."
+    },
+    {
+      "name": "Cameron Burgess",
+      "position": "DF",
+      "birth_country": "Scotland",
+      "father_origin": "Scotland",
+      "mother_origin": "Scotland",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Portlethen, Scotland; family (including footballer father Stuart and grandfather Campbell Forsyth) emigrated to Perth when he was 11."
+    },
+    {
+      "name": "Jacob Italiano",
+      "position": "DF",
+      "birth_country": "Australia",
+      "father_origin": "Italy",
+      "mother_origin": "Italy",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Perth to parents of Italian descent; holds dual Australian-Italian citizenship."
+    },
+    {
+      "name": "Jordan Bos",
+      "position": "DF",
+      "birth_country": "Australia",
+      "father_origin": "Netherlands",
+      "mother_origin": "Australia",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Melbourne; Dutch father Jacco relocated from the Netherlands in 1997 and met Australian mother Sandra."
+    },
+    {
+      "name": "Connor Metcalfe",
+      "position": "MF",
+      "birth_country": "Australia",
+      "father_origin": "Australia",
+      "mother_origin": "Australia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Newcastle, NSW; no documented foreign parental heritage found."
+    },
+    {
+      "name": "Aiden O'Neill",
+      "position": "MF",
+      "birth_country": "Australia",
+      "father_origin": "Australia",
+      "mother_origin": "Australia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Brisbane; holds Northern Irish citizenship via his father's side (descent), but father not documented as foreign-born — kept Australia per the parent-must-be-foreign-born rule."
+    },
+    {
+      "name": "Paul Okon-Engstler",
+      "position": "MF",
+      "birth_country": "Belgium",
+      "father_origin": "Australia",
+      "mother_origin": "Cuba",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Belgium while father Paul Okon (Australian, ex-Socceroo, of Italian/German descent) played there; mother is Cuban."
+    },
+    {
+      "name": "Nestory Irankunda",
+      "position": "FW",
+      "birth_country": "Tanzania",
+      "father_origin": "Burundi",
+      "mother_origin": "Burundi",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in a refugee camp in Kigoma, Tanzania, after his Burundian parents fled civil war; moved to Perth as an infant."
+    },
+    {
+      "name": "Mohamed Touré",
+      "position": "FW",
+      "birth_country": "Guinea",
+      "father_origin": "Liberia",
+      "mother_origin": "Liberia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in a refugee camp in Conakry, Guinea, to Liberian parents Amara and Mawa Touré who fled the Liberian civil war; family moved to Australia in 2004."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "team": "Iran",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Iran vs Belgium, Group G, 21 June 2026 (4-4-2)",
+  "players": [
+    {
+      "name": "Alireza Beiranvand",
+      "position": "GK",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born into a nomadic Kurdish Lak family in rural Lorestan Province, Iran."
+    },
+    {
+      "name": "Ramin Rezaeian",
+      "position": "DF",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Samaskandah village, Mazandaran Province, Iran; no documented foreign parentage."
+    },
+    {
+      "name": "Shoja Khalilzadeh",
+      "position": "DF",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Bahnemir, Mazandaran Province, Iran, to a family of farmers and fish farmers."
+    },
+    {
+      "name": "Ali Nemati",
+      "position": "DF",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Iranian centre-back with no documented foreign parentage."
+    },
+    {
+      "name": "Milad Mohammadi",
+      "position": "DF",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in the Fallah district of Tehran, of Persian and Iranian Azerbaijani descent, family roots in Qazvin Province."
+    },
+    {
+      "name": "Mohammad Mohebi",
+      "position": "MF",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Bushehr, southern Iran; no documented foreign parentage."
+    },
+    {
+      "name": "Saeid Ezatolahi",
+      "position": "MF",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Bandar-e Anzali, Gilan Province; son of former footballer Nader Ezatolahi, also Iranian."
+    },
+    {
+      "name": "Saman Ghoddos",
+      "position": "MF",
+      "birth_country": "Sweden",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born and raised in Malmo, Sweden, to Iranian immigrant parents (mother Simin, father Mohsen) from Ahvaz, Iran."
+    },
+    {
+      "name": "Mehdi Ghayedi",
+      "position": "MF",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Bushehr, Iran; no documented foreign parentage."
+    },
+    {
+      "name": "Mehdi Taremi",
+      "position": "FW",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Bushehr, Iran; father Alishah Taremi was a local amateur footballer and fisherman, also Iranian."
+    },
+    {
+      "name": "Shahriyar Moghanlou",
+      "position": "FW",
+      "birth_country": "Iran",
+      "father_origin": "Iran",
+      "mother_origin": "Iran",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Zanjan, Iran, to an Iranian Azerbaijani family."
+    }
+  ]
+}
