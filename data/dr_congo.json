@@ -1,0 +1,106 @@
+{
+  "team": "DR Congo",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "DR Congo vs Colombia, World Cup group stage, 24 June 2026 (5-3-2)",
+  "players": [
+    {
+      "name": "Lionel Mpasi",
+      "position": "GK",
+      "birth_country": "France",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Meaux, France, to Congolese parents who had migrated to France before his birth."
+    },
+    {
+      "name": "Aaron Wan-Bissaka",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Croydon, England; father Ambroise fled DR Congo in 1997, both parents Congolese."
+    },
+    {
+      "name": "Chancel Mbemba",
+      "position": "DF",
+      "birth_country": "DR Congo",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "low", "mother": "high" },
+      "note": "Born in Kinshasa; mother Antoinette was a DR Congo women's national basketball player."
+    },
+    {
+      "name": "Axel Tuanzebe",
+      "position": "DF",
+      "birth_country": "DR Congo",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Bunia, DR Congo; emigrated to England with his Congolese family in 2001 fleeing civil war."
+    },
+    {
+      "name": "Steve Kapuadi",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Le Mans, France, to parents of DR Congo origin."
+    },
+    {
+      "name": "Arthur Masuaku",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Lille, France, to DR Congolese parents; played for France youth before switching to DR Congo in 2017."
+    },
+    {
+      "name": "Ngal'ayel Mukau",
+      "position": "MF",
+      "birth_country": "Belgium",
+      "father_origin": "France",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "low", "mother": "medium" },
+      "note": "Born in Antwerp, Belgium; holds Congolese and French nationality via his parents, mother Congolese."
+    },
+    {
+      "name": "Samuel Moutoussamy",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "France",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in Paris; mother is Congolese, father is Indo-Guadeloupean (French overseas territory) of Tamil descent."
+    },
+    {
+      "name": "Edo Kayembe",
+      "position": "MF",
+      "birth_country": "DR Congo",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Kananga, DR Congo; moved to Belgium only as a young professional with Anderlecht."
+    },
+    {
+      "name": "Cedric Bakambu",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Vitry-sur-Seine, France, to parents from DR Congo's Kongo Central province; dual French-Congolese national."
+    },
+    {
+      "name": "Yoane Wissa",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "DR Congo",
+      "mother_origin": "DR Congo",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Val-de-Marne, France, to a family from DR Congo's Kongo-Central and Equateur regions."
+    }
+  ]
+}

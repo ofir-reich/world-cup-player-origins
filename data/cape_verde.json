@@ -1,0 +1,106 @@
+{
+  "team": "Cape Verde",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Cape Verde vs Spain / Uruguay, World Cup 2026 group stage, June 2026 (4-2-3-1)",
+  "players": [
+    {
+      "name": "Vozinha (Josimar Dias)",
+      "position": "GK",
+      "birth_country": "Cape Verde",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Mindelo, Sao Vicente, Cape Verde; raised by grandparents there, no record of foreign parentage."
+    },
+    {
+      "name": "Wagner Pina",
+      "position": "DF",
+      "birth_country": "Portugal",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Portugal to a Cape Verdean diaspora family; no specific detail on individual parents found."
+    },
+    {
+      "name": "Roberto Lopes",
+      "position": "DF",
+      "birth_country": "Ireland",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Ireland",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born and raised in Dublin (Crumlin) to Cape Verdean father Carlos and Irish mother Judy."
+    },
+    {
+      "name": "Edilson \"Diney\" Borges",
+      "position": "DF",
+      "birth_country": "Cape Verde",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Tarrafal, Santiago Island, Cape Verde; no record of foreign parentage."
+    },
+    {
+      "name": "Sidny Lopes Cabral",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Rotterdam to a Cape Verdean diaspora family; brother Rodny also plays for Cape Verde."
+    },
+    {
+      "name": "Kevin Pina",
+      "position": "MF",
+      "birth_country": "Cape Verde",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Praia, Cape Verde; scored the country's first-ever World Cup goal vs Uruguay."
+    },
+    {
+      "name": "Jamiro Monteiro",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Rotterdam and raised by Cape Verdean immigrant parents in the Netherlands."
+    },
+    {
+      "name": "Telmo Arcanjo",
+      "position": "MF",
+      "birth_country": "Portugal",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Lisbon to a Cape Verdean diaspora family; his older brother also represented Cape Verde."
+    },
+    {
+      "name": "Jovane Cabral",
+      "position": "FW",
+      "birth_country": "Cape Verde",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Assomada, Santiago Island, Cape Verde; moved to Portugal as a teen for football (Sporting CP academy)."
+    },
+    {
+      "name": "Ryan Mendes",
+      "position": "FW",
+      "birth_country": "Cape Verde",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Mindelo, Cape Verde; built his club career in France (Le Havre) and holds dual French citizenship; team captain and all-time top scorer."
+    },
+    {
+      "name": "Nuno da Costa",
+      "position": "FW",
+      "birth_country": "Cape Verde",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Praia, Cape Verde; family relocated to Portugal when he was about 2 years old, later to France at 13."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "team": "South Africa",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Projected South Africa starting XI based on Hugo Broos' final 26-man squad (4-2-3-1)",
+  "players": [
+    {
+      "name": "Ronwen Williams",
+      "position": "GK",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Gelvandale, Port Elizabeth; parents Rodney and Hazel Williams both South African, both former footballers."
+    },
+    {
+      "name": "Khuliso Mudau",
+      "position": "DF",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Musina, Limpopo; no documented foreign parental origin, assumed home-grown."
+    },
+    {
+      "name": "Nkosinathi Sibisi",
+      "position": "DF",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Durban, KwaZulu-Natal; no documented foreign parental origin, assumed home-grown."
+    },
+    {
+      "name": "Mbekezeli Mbokazi",
+      "position": "DF",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Hluhluwe, KwaZulu-Natal; no documented foreign parental origin, assumed home-grown."
+    },
+    {
+      "name": "Aubrey Modiba",
+      "position": "DF",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Polokwane, Limpopo; no documented foreign parental origin, assumed home-grown."
+    },
+    {
+      "name": "Teboho Mokoena",
+      "position": "MF",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Free State; father Alexis 'Didi' Motaung played for Free State Stars, both parents South African."
+    },
+    {
+      "name": "Thalente Mbatha",
+      "position": "MF",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in KwaMashu, Durban; raised by his mother, no documented foreign parental origin."
+    },
+    {
+      "name": "Sphephelo Sithole",
+      "position": "MF",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Durban; moved to Portugal as a teenager for his career, but no documented foreign parental origin."
+    },
+    {
+      "name": "Oswin Appollis",
+      "position": "FW",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Cape Town; no documented foreign parental origin, assumed home-grown."
+    },
+    {
+      "name": "Lyle Foster",
+      "position": "FW",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Soweto, Gauteng; cousin of Luther Singh, no documented foreign parental origin."
+    },
+    {
+      "name": "Relebohile Mofokeng",
+      "position": "FW",
+      "birth_country": "South Africa",
+      "father_origin": "South Africa",
+      "mother_origin": "South Africa",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Sharpeville; father Sechaba Mofokeng and mother Naomi Mofokeng both South African."
+    }
+  ]
+}

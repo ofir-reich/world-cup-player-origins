@@ -1,0 +1,106 @@
+{
+  "team": "Japan",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Japan recent squad / starting XI under Hajime Moriyasu (4-2-3-1)",
+  "players": [
+    {
+      "name": "Zion Suzuki",
+      "position": "GK",
+      "birth_country": "United States",
+      "father_origin": "Ghana",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Newark, USA, to a Ghanaian father and Japanese mother; raised in Japan."
+    },
+    {
+      "name": "Takehiro Tomiyasu",
+      "position": "DF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Fukuoka; father a kendo fighter, mother a former track athlete, both Japanese."
+    },
+    {
+      "name": "Ko Itakura",
+      "position": "DF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Yokohama; no foreign heritage documented, standard Japanese background."
+    },
+    {
+      "name": "Hiroki Ito",
+      "position": "DF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Japan; no foreign heritage documented, standard Japanese background."
+    },
+    {
+      "name": "Yukinari Sugawara",
+      "position": "DF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Japan; no foreign heritage documented, standard Japanese background."
+    },
+    {
+      "name": "Ao Tanaka",
+      "position": "MF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Japan; no foreign heritage documented, standard Japanese background."
+    },
+    {
+      "name": "Daichi Kamada",
+      "position": "MF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Ehime; father Mikio was a former amateur defender, both parents Japanese."
+    },
+    {
+      "name": "Takefusa Kubo",
+      "position": "MF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Kawasaki to Japanese parents Takefumi and Tamiko."
+    },
+    {
+      "name": "Ritsu Doan",
+      "position": "MF",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Amagasaki; no foreign heritage documented, standard Japanese background."
+    },
+    {
+      "name": "Daizen Maeda",
+      "position": "FW",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Osaka; father a veterinarian, mother an animal hospital worker, both Japanese."
+    },
+    {
+      "name": "Ayase Ueda",
+      "position": "FW",
+      "birth_country": "Japan",
+      "father_origin": "Japan",
+      "mother_origin": "Japan",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Mito; father a former amateur footballer, both parents Japanese."
+    }
+  ]
+}
