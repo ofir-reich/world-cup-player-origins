@@ -1,0 +1,106 @@
+{
+  "team": "Bosnia and Herzegovina",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Bosnia and Herzegovina vs Qatar, Group B, June 2026 (4-3-2-1)",
+  "players": [
+    {
+      "name": "Nikola Vasilj",
+      "position": "GK",
+      "birth_country": "Bosnia and Herzegovina",
+      "father_origin": "Germany",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Mostar; father Vladimir, a former Croatia international goalkeeper, was born in Hanover, West Germany."
+    },
+    {
+      "name": "Amar Dedic",
+      "position": "DF",
+      "birth_country": "Austria",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Zell am See, Austria, to Bosnian parents."
+    },
+    {
+      "name": "Nikola Katic",
+      "position": "DF",
+      "birth_country": "Bosnia and Herzegovina",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Ljubuski; ethnic Croat from Bosnia, formerly a Croatia youth international before switching to Bosnia in 2024."
+    },
+    {
+      "name": "Dennis Hadzikadunic",
+      "position": "DF",
+      "birth_country": "Sweden",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Malmo, Sweden, to Bosnian parents who emigrated; played Swedish youth football before switching to Bosnia."
+    },
+    {
+      "name": "Sead Kolasinac",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Karlsruhe, Germany, to Bosniak parents (father Faik) who fled the Bosnian War."
+    },
+    {
+      "name": "Kerim Alajbegovic",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Cologne, Germany, to Bosnian parents."
+    },
+    {
+      "name": "Ivan Sunjic",
+      "position": "MF",
+      "birth_country": "Bosnia and Herzegovina",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Bosnia and Herzegovina; no documented foreign parental origin found."
+    },
+    {
+      "name": "Benjamin Tahirovic",
+      "position": "MF",
+      "birth_country": "Sweden",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Spanga, a Stockholm suburb, to parents of Bosnian origin; chose Bosnia over Sweden internationally."
+    },
+    {
+      "name": "Amar Memic",
+      "position": "MF",
+      "birth_country": "Bosnia and Herzegovina",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Sarajevo; no documented foreign parental origin found."
+    },
+    {
+      "name": "Edin Dzeko",
+      "position": "FW",
+      "birth_country": "Bosnia and Herzegovina",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Sarajevo to Midhat and Belma Dzeko, both Bosnian; father also a former footballer."
+    },
+    {
+      "name": "Ermedin Demirovic",
+      "position": "FW",
+      "birth_country": "Germany",
+      "father_origin": "Bosnia and Herzegovina",
+      "mother_origin": "Bosnia and Herzegovina",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Hamburg, Germany, to Bosnian immigrant parents."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "team": "Algeria",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Algeria vs Jordan, World Cup 2026 group stage, June 2026 (4-3-3)",
+  "players": [
+    {
+      "name": "Luca Zidane",
+      "position": "GK",
+      "birth_country": "France",
+      "father_origin": "Algeria",
+      "mother_origin": "Spain",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Aix-en-Provence to Zinedine Zidane (Algerian Kabyle heritage, parents emigrated to France) and Spanish-descent mother Véronique Fernández; switched sporting nationality from France to Algeria in 2025."
+    },
+    {
+      "name": "Rafik Belghali",
+      "position": "DF",
+      "birth_country": "Belgium",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Leuven, Belgium, to Algerian immigrant parents; father from Chlef, mother from Aïn Sefra."
+    },
+    {
+      "name": "Aissa Mandi",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Châlons-en-Champagne, France, to Algerian immigrant parents from Chlef."
+    },
+    {
+      "name": "Ramy Bensebaini",
+      "position": "DF",
+      "birth_country": "Algeria",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Constantine, Algeria; individual parent origins not documented but presumed Algerian (homegrown)."
+    },
+    {
+      "name": "Rayan Ait-Nouri",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Montreuil, France; both parents emigrated from Algeria in their early 20s, met in France (father worked at Orly Airport, mother as a cleaner)."
+    },
+    {
+      "name": "Hicham Boudaoui",
+      "position": "MF",
+      "birth_country": "Algeria",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Béchar, Algeria, in a large working-class family; individual parent origins not documented."
+    },
+    {
+      "name": "Ramiz Zerrouki",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Amsterdam to Algerian immigrant parents; father from Sidi Bel Abbès, family settled in the Netherlands before his birth."
+    },
+    {
+      "name": "Ibrahim Maza",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Algeria",
+      "mother_origin": "Vietnam",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Berlin; father Sofiane immigrated to Germany from Algiers, and Maza is also of Vietnamese descent through his mother."
+    },
+    {
+      "name": "Riyad Mahrez",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Clichy, France; father Ahmed from Beni Snous, Tlemcen Province, Algeria; mother Halima also from the Tlemcen region, of Algerian-Moroccan descent."
+    },
+    {
+      "name": "Mohamed Amoura",
+      "position": "FW",
+      "birth_country": "Algeria",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Jijel, Algeria, son of a farmer; also holds French nationality but parents are Algerian (homegrown)."
+    },
+    {
+      "name": "Fares Chaibi",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Bron, near Lyon, France, to Algerian parents (individual origins not further specified)."
+    }
+  ]
+}

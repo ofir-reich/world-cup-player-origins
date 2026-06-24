@@ -1,0 +1,106 @@
+{
+  "team": "Côte d'Ivoire",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Côte d'Ivoire vs Germany, Group E, 20 June 2026",
+  "players": [
+    {
+      "name": "Yahia Fofana",
+      "position": "GK",
+      "birth_country": "France",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in France and capped by French youth teams, but is 'of Ivorian descent' through his parents."
+    },
+    {
+      "name": "Ghislain Konan",
+      "position": "DF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "low", "father": "low", "mother": "low" },
+      "note": "No documented birthplace or parental origin found; assumed homegrown Ivorian."
+    },
+    {
+      "name": "Wilfried Singo",
+      "position": "DF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "low", "father": "low", "mother": "low" },
+      "note": "Youth product of Denguélé academy in Ivory Coast; no documented parental origin found."
+    },
+    {
+      "name": "Odilon Kossounou",
+      "position": "DF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "medium", "father": "low", "mother": "low" },
+      "note": "Began career at ASEC Mimosas academy in Abidjan; no documented parental origin found."
+    },
+    {
+      "name": "Emmanuel Agbadou",
+      "position": "DF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "low", "father": "low", "mother": "low" },
+      "note": "No documented birthplace or parental origin found; assumed homegrown Ivorian."
+    },
+    {
+      "name": "Franck Kessié",
+      "position": "MF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Ouragahio, Ivory Coast; began career at Stella Club d'Adjamé. No documented parental origin."
+    },
+    {
+      "name": "Ibrahim Sangaré",
+      "position": "MF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "medium", "father": "low", "mother": "low" },
+      "note": "Started youth career with Ivorian clubs Tout Puissant Koumassi and AS Denguélé; no documented parental origin."
+    },
+    {
+      "name": "Christ Inao Oulaï",
+      "position": "MF",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "low", "father": "low", "mother": "low" },
+      "note": "Joined JMG Academy in Ivory Coast at age 12; no documented birthplace or parental origin."
+    },
+    {
+      "name": "Ange-Yoan Bonny",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in France and played for French youth teams up to U21, but is documented as 'of Ivorian descent'."
+    },
+    {
+      "name": "Yan Diomandé",
+      "position": "FW",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Abidjan, Ivory Coast; moved to the United States as a teenager for school and football."
+    },
+    {
+      "name": "Amad Diallo",
+      "position": "FW",
+      "birth_country": "Ivory Coast",
+      "father_origin": "Ivory Coast",
+      "mother_origin": "Ivory Coast",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Abidjan, Ivory Coast; emigrated to Italy at age eight to join Atalanta's academy pathway."
+    }
+  ]
+}
