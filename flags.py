@@ -76,6 +76,7 @@ OVERRIDES = {
     "republic of the congo": "CG", "cape verde": "CV", "cabo verde": "CV",
     "south korea": "KR", "north korea": "KP",
     "united states": "US", "usa": "US", "united kingdom": "GB",
+    "palestine": "PS", "state of palestine": "PS",
 }
 
 try:  # optional dependency — extends coverage but not required

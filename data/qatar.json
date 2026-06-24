@@ -1,0 +1,106 @@
+{
+  "team": "Qatar",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Qatar vs Switzerland, World Cup 2026 group stage, June 2026 (4-3-3)",
+  "players": [
+    {
+      "name": "Mahmud Abunada",
+      "position": "GK",
+      "birth_country": "Qatar",
+      "father_origin": "Palestine",
+      "mother_origin": "Palestine",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Doha to a family of Palestinian descent from the Gaza Strip; holds dual Qatari-Palestinian citizenship."
+    },
+    {
+      "name": "Ayoub Al-Oui",
+      "position": "DF",
+      "birth_country": "Qatar",
+      "father_origin": "Tunisia",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Qatar; described as of Tunisian descent, individual parent details not documented."
+    },
+    {
+      "name": "Pedro Miguel",
+      "position": "DF",
+      "birth_country": "Portugal",
+      "father_origin": "Cape Verde",
+      "mother_origin": "Cape Verde",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Sintra, Portugal, to a family of Cape Verdean descent; played for Cape Verde at youth level before naturalizing for Qatar in 2016."
+    },
+    {
+      "name": "Boualem Khoukhi",
+      "position": "DF",
+      "birth_country": "Algeria",
+      "father_origin": "Algeria",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Bou Ismail, Algeria, moving to Qatar in 2009; individual parent origins not documented but presumed Algerian."
+    },
+    {
+      "name": "Homam Al-Amin",
+      "position": "DF",
+      "birth_country": "Qatar",
+      "father_origin": "Qatar",
+      "mother_origin": "Qatar",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Doha; no documented foreign parental heritage found, assumed Qatari family."
+    },
+    {
+      "name": "Jassem Gaber",
+      "position": "MF",
+      "birth_country": "Qatar",
+      "father_origin": "Qatar",
+      "mother_origin": "Qatar",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Doha; sources state both parents are of Qatari origin."
+    },
+    {
+      "name": "Assim Madibo",
+      "position": "MF",
+      "birth_country": "Sudan",
+      "father_origin": "Sudan",
+      "mother_origin": "Sudan",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Khartoum, Sudan, to Sudanese parents who later moved the family to Qatar; was eligible for either nation and chose Qatar."
+    },
+    {
+      "name": "Issa Laye",
+      "position": "MF",
+      "birth_country": "Senegal",
+      "father_origin": "Senegal",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Dakar, Senegal, to Senegalese parents; naturalized as a Qatari citizen in 2025."
+    },
+    {
+      "name": "Edmilson Junior",
+      "position": "FW",
+      "birth_country": "Belgium",
+      "father_origin": "Brazil",
+      "mother_origin": "Brazil",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Belgium while his Brazilian father played professional football there; holds Brazilian and Qatari citizenship and was eligible for Brazil or Belgium before choosing Qatar."
+    },
+    {
+      "name": "Yusuf Abdurisag",
+      "position": "FW",
+      "birth_country": "Somalia",
+      "father_origin": "Somalia",
+      "mother_origin": "Somalia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Mogadishu, Somalia, moved to Sweden then to Qatar's Aspire Academy at age 13; first Somali-born player to start a World Cup match."
+    },
+    {
+      "name": "Akram Afif",
+      "position": "FW",
+      "birth_country": "Qatar",
+      "father_origin": "Somalia",
+      "mother_origin": "Yemen",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Doha; father Hassan Afif is of Yemeni descent but was raised in Tanzania and Somalia and played for the Somalia national team, while mother Fayza is of Yemeni descent from the Yafa tribe."
+    }
+  ]
+}

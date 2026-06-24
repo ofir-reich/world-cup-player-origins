@@ -1,0 +1,106 @@
+{
+  "team": "Jordan",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Predicted Jordan XI vs Austria, World Cup Group J opener, 17 June 2026 (3-4-3)",
+  "players": [
+    {
+      "name": "Yazeed Abulaila",
+      "position": "GK",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Zarqa, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Saleem Obaid",
+      "position": "DF",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Amman, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Yazan Al-Arab",
+      "position": "DF",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Russeifa, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Abdallah Nasib",
+      "position": "DF",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Aqaba, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Ehsan Haddad",
+      "position": "MF",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Irbid, Jordan; squad captain; no documented foreign parentage."
+    },
+    {
+      "name": "Nizar Al-Rashdan",
+      "position": "MF",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Irbid, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Noor Al-Rawabdeh",
+      "position": "MF",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Amman, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Mohannad Abu Taha",
+      "position": "MF",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Amman, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Mousa Al-Tamari",
+      "position": "FW",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Amman to a family of Palestinian descent ('Jordanian of Palestinian background'), but no source documents a parent born/raised outside Jordan, so origins are recorded as Jordan per ancestry rules."
+    },
+    {
+      "name": "Ali Olwan",
+      "position": "FW",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Amman, Jordan; no documented foreign parentage."
+    },
+    {
+      "name": "Odeh Fakhoury",
+      "position": "FW",
+      "birth_country": "Jordan",
+      "father_origin": "Jordan",
+      "mother_origin": "Jordan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Amman, Jordan; Jordanian Christian; no documented foreign-born parent."
+    }
+  ]
+}

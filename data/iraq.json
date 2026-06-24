@@ -1,0 +1,106 @@
+{
+  "team": "Iraq",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Iraq vs Norway, Group I opener, June 2026 (projected starting XI based on 26-man World Cup squad)",
+  "players": [
+    {
+      "name": "Jalal Hassan",
+      "position": "GK",
+      "birth_country": "Iraq",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Baghdad; captain, no foreign parental origin documented."
+    },
+    {
+      "name": "Rebin Sulaka",
+      "position": "DF",
+      "birth_country": "Iraq",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Erbil (Ankawa) to an Assyrian Christian family; moved to Sweden at age 10, but both parents are Iraqi."
+    },
+    {
+      "name": "Zaid Tahseen",
+      "position": "DF",
+      "birth_country": "Iraq",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Najaf; no foreign parental origin documented."
+    },
+    {
+      "name": "Merchas Doski",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Hanover, Germany, to Iraqi Kurdish parents from Iraq."
+    },
+    {
+      "name": "Frans Putros",
+      "position": "DF",
+      "birth_country": "Denmark",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Aarhus, Denmark, to Assyrian Iraqi parents."
+    },
+    {
+      "name": "Aimar Sher",
+      "position": "MF",
+      "birth_country": "Iraq",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Kirkuk to Assyro-Chaldean parents; family moved to Sweden when he was four."
+    },
+    {
+      "name": "Amir Al-Ammari",
+      "position": "MF",
+      "birth_country": "Sweden",
+      "father_origin": "Iraq",
+      "mother_origin": "Palestine",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Jönköping, Sweden, to an Iraqi father and a Palestinian mother who met in Kuwait before settling in Sweden."
+    },
+    {
+      "name": "Kevin Yakob",
+      "position": "MF",
+      "birth_country": "Sweden",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Gothenburg, Sweden, to Assyrian parents from Basra, Iraq."
+    },
+    {
+      "name": "Zidane Iqbal",
+      "position": "MF",
+      "birth_country": "England",
+      "father_origin": "Pakistan",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Manchester; father grew up in Lahore, Pakistan, mother is from Samawah, Iraq, who left during the first Gulf War."
+    },
+    {
+      "name": "Ali Al-Hamadi",
+      "position": "FW",
+      "birth_country": "Iraq",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Maysan, Iraq; family fled to Liverpool, England, when he was one, but both parents are Iraqi."
+    },
+    {
+      "name": "Aymen Hussein",
+      "position": "FW",
+      "birth_country": "Iraq",
+      "father_origin": "Iraq",
+      "mother_origin": "Iraq",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in the village of Al-Safra to a family of sheep farmers; father was a soldier killed by Al-Qaeda."
+    }
+  ]
+}
