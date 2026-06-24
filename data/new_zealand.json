@@ -1,0 +1,106 @@
+{
+  "team": "New Zealand",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "New Zealand 1-3 Egypt, Group G, 21 June 2026 (4-2-3-1)",
+  "players": [
+    {
+      "name": "Max Crocombe",
+      "position": "GK",
+      "birth_country": "New Zealand",
+      "father_origin": "New Zealand",
+      "mother_origin": "New Zealand",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Auckland of Cook Islands descent (a NZ realm territory, not a foreign nationality); no documented foreign-born parent."
+    },
+    {
+      "name": "Tim Payne",
+      "position": "DF",
+      "birth_country": "New Zealand",
+      "father_origin": "New Zealand",
+      "mother_origin": "New Zealand",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Auckland, attended Sacred Heart College; no documented foreign parental heritage."
+    },
+    {
+      "name": "Finn Surman",
+      "position": "DF",
+      "birth_country": "Wales",
+      "father_origin": "New Zealand",
+      "mother_origin": "New Zealand",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Cardiff, Wales, but grew up in Prebbleton, Canterbury and came through New Zealand youth football; no documented foreign-born parent despite Welsh birthplace."
+    },
+    {
+      "name": "Michael Boxall",
+      "position": "DF",
+      "birth_country": "New Zealand",
+      "father_origin": "Samoa",
+      "mother_origin": "Samoa",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Auckland; documented as being of Samoan heritage, though parents are not individually distinguished in sources."
+    },
+    {
+      "name": "Liberato Cacace",
+      "position": "DF",
+      "birth_country": "New Zealand",
+      "father_origin": "Italy",
+      "mother_origin": "New Zealand",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Wellington to an Italian father, Antonio, who emigrated from Massa Lubrense near Naples in 1992, and a New Zealand mother of Italian descent."
+    },
+    {
+      "name": "Joe Bell",
+      "position": "MF",
+      "birth_country": "England",
+      "father_origin": "England",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Bristol, England to English parents Richard and Caroline Bell, family moved to New Zealand in his early childhood; holds dual citizenship."
+    },
+    {
+      "name": "Marko Stamenić",
+      "position": "MF",
+      "birth_country": "New Zealand",
+      "father_origin": "Serbia",
+      "mother_origin": "Samoa",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Wellington to a Serbian father from Novi Sad and a Samoan mother."
+    },
+    {
+      "name": "Callum McCowatt",
+      "position": "MF",
+      "birth_country": "New Zealand",
+      "father_origin": "New Zealand",
+      "mother_origin": "New Zealand",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Auckland; no documented foreign parental heritage found."
+    },
+    {
+      "name": "Sarpreet Singh",
+      "position": "MF",
+      "birth_country": "New Zealand",
+      "father_origin": "India",
+      "mother_origin": "India",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Auckland to Indian (Punjabi) immigrant parents."
+    },
+    {
+      "name": "Elijah Just",
+      "position": "FW",
+      "birth_country": "New Zealand",
+      "father_origin": "Germany",
+      "mother_origin": "China",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in New Zealand to a German father and a Chinese mother."
+    },
+    {
+      "name": "Chris Wood",
+      "position": "FW",
+      "birth_country": "New Zealand",
+      "father_origin": "New Zealand",
+      "mother_origin": "England",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in Auckland to Grant and Julie Wood; his mother is from England, captains the All Whites and is the team's record scorer."
+    }
+  ]
+}

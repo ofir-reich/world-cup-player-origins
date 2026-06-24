@@ -1,0 +1,106 @@
+{
+  "team": "Uzbekistan",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Projected starting XI, 3-4-2-1, group stage 2026 (Uzbekistan's first-ever World Cup)",
+  "players": [
+    {
+      "name": "Utkir Yusupov",
+      "position": "GK",
+      "birth_country": "Kazakhstan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Sayram, Kazakhstan, to an ethnic Uzbek family; moved to Uzbekistan at age 5 and naturalized in 2017."
+    },
+    {
+      "name": "Rustam Ashurmatov",
+      "position": "DF",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Kokand; no documented foreign parentage, assumed Uzbek family."
+    },
+    {
+      "name": "Abdukodir Khusanov",
+      "position": "DF",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Tashkent; father Khikmat Khoshimov a former Uzbekistan international footballer."
+    },
+    {
+      "name": "Sherzod Nasrullaev",
+      "position": "DF",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Koson; full patronymic name (Innatillo o'g'li) confirms Uzbek father, no foreign heritage documented."
+    },
+    {
+      "name": "Odiljon Khamrobekov",
+      "position": "MF",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Uzbekistan; no documented foreign parentage, assumed Uzbek family."
+    },
+    {
+      "name": "Otabek Shukurov",
+      "position": "MF",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Team captain, born in Uzbekistan; no documented foreign parentage."
+    },
+    {
+      "name": "Akmal Mozgovoy",
+      "position": "MF",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Russia",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Qarshi; categorized as 'Uzbekistani of Russian descent' with Slavic surname and patronymic Vladimirovich, indicating a Russian father."
+    },
+    {
+      "name": "Oston Urunov",
+      "position": "MF",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Navoiy; patronymic (Rustam o'g'li) confirms Uzbek father; spent years playing in Russia but no documented foreign parentage."
+    },
+    {
+      "name": "Jaloliddin Masharipov",
+      "position": "FW",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Urgench; patronymic (Qadomboy o'g'li) confirms Uzbek father."
+    },
+    {
+      "name": "Abbosbek Fayzullaev",
+      "position": "FW",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Sirdaryo Region; patronymic (Sayidjon o'g'li) confirms Uzbek father; scored Uzbekistan's first-ever World Cup goal."
+    },
+    {
+      "name": "Eldor Shomurodov",
+      "position": "FW",
+      "birth_country": "Uzbekistan",
+      "father_origin": "Uzbekistan",
+      "mother_origin": "Uzbekistan",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Captain and all-time top scorer; born in Jarqo'rg'on into a football family — father, uncles, and brother all played professionally for Uzbek clubs/national team."
+    }
+  ]
+}

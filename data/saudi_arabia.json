@@ -1,0 +1,18 @@
+{
+  "team": "Saudi Arabia",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Projected starting XI based on 2026 qualifying/squad news (GK Al-Aqidi; DF Abdulhamid, Tambakti, Lajami, Al-Amri; MF Kanno, Al-Khaibari, Al-Dawsari S., Al-Dawsari N.; FW Al-Buraikan, Al-Shehri)",
+  "players": [
+    { "name": "Nawaf Al-Aqidi", "position": "GK", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Riyadh; no documented foreign parentage, squad is overwhelmingly home-born." },
+    { "name": "Saud Abdulhamid", "position": "DF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Jeddah; no documented foreign heritage found." },
+    { "name": "Hassan Al-Tambakti", "position": "DF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Riyadh; Al-Shabab/Al-Hilal academy product with no documented foreign parentage." },
+    { "name": "Ali Lajami", "position": "DF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Saihat, Eastern Province; twin brother also plays for a Saudi club, no foreign heritage documented." },
+    { "name": "Abdulelah Al-Amri", "position": "DF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in 1997; captained Saudi U-20s, no documented foreign parentage." },
+    { "name": "Mohamed Kanno", "position": "MF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Khobar; no documented foreign heritage despite distinctive surname." },
+    { "name": "Abdullah Al-Khaibari", "position": "MF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Riyadh; Al-Nassr midfielder with no documented foreign parentage." },
+    { "name": "Salem Al-Dawsari", "position": "MF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Team captain, born in Jeddah; no documented foreign heritage." },
+    { "name": "Nasser Al-Dawsari", "position": "MF", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Al-Hilal academy product since age 13, no documented foreign parentage." },
+    { "name": "Firas Al-Buraikan", "position": "FW", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Riyadh; scored vs Argentina at 2022 World Cup, no documented foreign heritage." },
+    { "name": "Saleh Al-Shehri", "position": "FW", "birth_country": "Saudi Arabia", "father_origin": "Saudi Arabia", "mother_origin": "Saudi Arabia", "confidence": { "birth": "high", "father": "low", "mother": "low" }, "note": "Born in Jeddah; scored vs Argentina at 2022 World Cup, no documented foreign parentage." }
+  ]
+}

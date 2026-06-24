@@ -58,6 +58,7 @@ OVERRIDES = {
     "england": "GB-ENG",
     "scotland": "GB-SCT",
     "wales": "GB-WLS",
+    "northern ireland": "GB-NIR",
     # countries in the data:
     "switzerland": "CH", "france": "FR", "germany": "DE", "spain": "ES",
     "netherlands": "NL", "belgium": "BE", "canada": "CA", "croatia": "HR",
@@ -77,6 +78,7 @@ OVERRIDES = {
     "south korea": "KR", "north korea": "KP",
     "united states": "US", "usa": "US", "united kingdom": "GB",
     "palestine": "PS", "state of palestine": "PS",
+    "russia": "RU", "russian federation": "RU",
 }
 
 try:  # optional dependency — extends coverage but not required
