@@ -1,0 +1,106 @@
+{
+  "team": "Türkiye",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Türkiye vs Paraguay, Group D, 19 June 2026 (4-2-3-1, Montella)",
+  "players": [
+    {
+      "name": "Uğurcan Çakır",
+      "position": "GK",
+      "birth_country": "Turkey",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Antalya; father Mustafa and mother Gülsüm both Turkish, family with roots also in Trabzon."
+    },
+    {
+      "name": "Zeki Çelik",
+      "position": "DF",
+      "birth_country": "Turkey",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Yıldırım, Bursa Province, to a family of Kurdish descent originally from Muş; parents' details undocumented."
+    },
+    {
+      "name": "Merih Demiral",
+      "position": "DF",
+      "birth_country": "Turkey",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Karamürsel, Kocaeli, to Turkish parents Burhan and Fatma; father of Laz heritage, mother's family of Bosnian heritage migrated from Artvin generations back, both raised in Turkey."
+    },
+    {
+      "name": "Abdülkerim Bardakcı",
+      "position": "DF",
+      "birth_country": "Turkey",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Meram, Konya; no parental origin documented, Turkish family assumed."
+    },
+    {
+      "name": "Ferdi Kadıoğlu",
+      "position": "DF",
+      "birth_country": "Netherlands",
+      "father_origin": "Turkey",
+      "mother_origin": "Netherlands",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Arnhem to a Turkish father and a Dutch-Canadian mother; was a Dutch youth international before choosing Turkey."
+    },
+    {
+      "name": "Hakan Çalhanoğlu",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Mannheim to Turkish parents originally from Bayburt; captains the Turkey national team."
+    },
+    {
+      "name": "Orkun Kökçü",
+      "position": "MF",
+      "birth_country": "Netherlands",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Haarlem to Turkish parents (Halis and Sibel) from the Emirdağ district of Afyonkarahisar; family emigrated to the Netherlands in 1995."
+    },
+    {
+      "name": "Barış Alper Yılmaz",
+      "position": "MF",
+      "birth_country": "Turkey",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Rize; no parental origin documented, Turkish family assumed."
+    },
+    {
+      "name": "Arda Güler",
+      "position": "MF",
+      "birth_country": "Turkey",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in the Altındağ district of Ankara to Turkish parents Ümit and Serap Güler, a working-class family."
+    },
+    {
+      "name": "Kenan Yıldız",
+      "position": "FW",
+      "birth_country": "Germany",
+      "father_origin": "Turkey",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Regensburg to a Turkish father, Engin Yıldız (from Dinar, Afyonkarahisar), and a German mother, Beate Hackl; holds dual nationality but chose Turkey."
+    },
+    {
+      "name": "Kerem Aktürkoğlu",
+      "position": "FW",
+      "birth_country": "Turkey",
+      "father_origin": "Turkey",
+      "mother_origin": "Turkey",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in İzmit to Turkish parents Ömer Faruk (from Rize) and Filiz (from Trabzon); survived the 1999 İzmit earthquake as an infant."
+    }
+  ]
+}

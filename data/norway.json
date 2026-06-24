@@ -1,0 +1,106 @@
+{
+  "team": "Norway",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Confirmed unchanged starting XI (4-3-3) for Norway's 2026 World Cup Group I matches vs Iraq and Senegal under Ståle Solbakken",
+  "players": [
+    {
+      "name": "Ørjan Nyland",
+      "position": "GK",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Volda, Norway; no documented foreign heritage."
+    },
+    {
+      "name": "Julian Ryerson",
+      "position": "DF",
+      "birth_country": "Norway",
+      "father_origin": "United States",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "His father was born in Brooklyn, USA, and his mother in Norway; he held dual Norwegian-American citizenship before rescinding his US passport."
+    },
+    {
+      "name": "Kristoffer Ajer",
+      "position": "DF",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Rælingen to parents Jan Tore and Randi Ajer, both of Norwegian descent."
+    },
+    {
+      "name": "Torbjørn Heggem",
+      "position": "DF",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Trondheim to a sporting Norwegian family; no documented foreign heritage."
+    },
+    {
+      "name": "David Møller Wolfe",
+      "position": "DF",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Bergen; parents' background is not publicly documented, typical Norwegian name."
+    },
+    {
+      "name": "Martin Ødegaard",
+      "position": "MF",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Drammen; son of former footballer Hans Erik Ødegaard and Lene Cecilie Ødegaard, both Norwegian."
+    },
+    {
+      "name": "Sander Berge",
+      "position": "MF",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Bærum to Norwegian father Åsmund Berge and Swedish mother Linnea Åbolin, both former international basketball players."
+    },
+    {
+      "name": "Fredrik Aursnes",
+      "position": "MF",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised near Hareid, Norway; no documented foreign heritage."
+    },
+    {
+      "name": "Antonio Nusa",
+      "position": "FW",
+      "birth_country": "Norway",
+      "father_origin": "Nigeria",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Langhus to a Nigerian father, Joe Nusa (from Edo State), and Norwegian mother Kristin Hedelund Nordby."
+    },
+    {
+      "name": "Erling Haaland",
+      "position": "FW",
+      "birth_country": "England",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Leeds, England, while father Alf-Inge Haaland played for Leeds United; both parents are Norwegian, family moved to Bryne, Norway, when he was three."
+    },
+    {
+      "name": "Alexander Sørloth",
+      "position": "FW",
+      "birth_country": "Norway",
+      "father_origin": "Norway",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Trondheim to former Rosenborg striker Gøran Sørloth and Hildegunn Roten, both Norwegian."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "team": "Czechia",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Czechia vs South Africa, Group A, 18 June 2026 (3-4-2-1)",
+  "players": [
+    {
+      "name": "Matěj Kovář",
+      "position": "GK",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Uherské Hradiště; father Jakub Kovář, no documented foreign heritage."
+    },
+    {
+      "name": "Ladislav Krejčí",
+      "position": "DF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Rosice; grew up with Czech parents, father introduced him to football."
+    },
+    {
+      "name": "Robin Hranáč",
+      "position": "DF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Plzeň; no documented heritage beyond Czech family background."
+    },
+    {
+      "name": "Štěpán Chaloupek",
+      "position": "DF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Meziboří; typical Czech name, no documented foreign heritage."
+    },
+    {
+      "name": "Jaroslav Zelený",
+      "position": "MF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Hradec Králové; no documented foreign heritage."
+    },
+    {
+      "name": "Vladimír Coufal",
+      "position": "MF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "high" },
+      "note": "Born in Ludgeřovice; mother Alena Dřevjaná was a Czechoslovak Olympic gymnast (1988)."
+    },
+    {
+      "name": "Tomáš Souček",
+      "position": "MF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Havlíčkův Brod to father František (manager) and mother Iva, a former handball player."
+    },
+    {
+      "name": "Alexandr Sojka",
+      "position": "MF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "From Klatovy; father Jindřich Sojka Sr. was a footballer and longtime club chairman there."
+    },
+    {
+      "name": "Pavel Šulc",
+      "position": "MF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Karlovy Vary; no documented foreign heritage."
+    },
+    {
+      "name": "Lukáš Provod",
+      "position": "MF",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Plzeň; no documented foreign heritage."
+    },
+    {
+      "name": "Patrik Schick",
+      "position": "FW",
+      "birth_country": "Czechia",
+      "father_origin": "Czechia",
+      "mother_origin": "Czechia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Prague to mother Iveta Schicková and a father who worked as a confectioner; surname is of German-Bohemian linguistic origin but family is Czech."
+    }
+  ]
+}

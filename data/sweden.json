@@ -1,0 +1,106 @@
+{
+  "team": "Sweden",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Sweden vs Tunisia, Group F opener, 14 June 2026 (5-1 win; 3-4-1-2)",
+  "players": [
+    {
+      "name": "Kristoffer Nordfeldt",
+      "position": "GK",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "No documented foreign heritage; defaults to Swedish parents."
+    },
+    {
+      "name": "Gustaf Lagerbielke",
+      "position": "DF",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Old Swedish noble surname; no foreign parental heritage documented."
+    },
+    {
+      "name": "Victor Lindelöf",
+      "position": "DF",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Captain, born in Västerås; no documented foreign parental heritage."
+    },
+    {
+      "name": "Isak Hien",
+      "position": "DF",
+      "birth_country": "Sweden",
+      "father_origin": "Ghana",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Kista, Stockholm, to a Ghanaian father and Swedish mother."
+    },
+    {
+      "name": "Alexander Bernhardsson",
+      "position": "DF",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Göteborg; no documented foreign parental heritage."
+    },
+    {
+      "name": "Gabriel Gudmundsson",
+      "position": "MF",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Icelandic-style surname is a red herring; father Niklas Gudmundsson is a Swedish-born former international."
+    },
+    {
+      "name": "Jesper Karlström",
+      "position": "MF",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Stockholm; no documented foreign parental heritage."
+    },
+    {
+      "name": "Yasin Ayari",
+      "position": "MF",
+      "birth_country": "Sweden",
+      "father_origin": "Tunisia",
+      "mother_origin": "Morocco",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Solna to a Tunisian father and mother of Moroccan descent; chose Sweden over Tunisia internationally."
+    },
+    {
+      "name": "Benjamin Nygren",
+      "position": "FW",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "IFK Göteborg youth product; no documented foreign parental heritage."
+    },
+    {
+      "name": "Alexander Isak",
+      "position": "FW",
+      "birth_country": "Sweden",
+      "father_origin": "Eritrea",
+      "mother_origin": "Eritrea",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Stockholm; both parents emigrated from Eritrea in the 1980s during the civil war."
+    },
+    {
+      "name": "Viktor Gyökeres",
+      "position": "FW",
+      "birth_country": "Sweden",
+      "father_origin": "Sweden",
+      "mother_origin": "Sweden",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Hungarian surname traces to a grandfather who fled in 1956; both parents are Swedish."
+    }
+  ]
+}
