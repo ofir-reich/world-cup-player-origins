@@ -1,0 +1,106 @@
+{
+  "team": "Austria",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Projected XI (4-2-3-1) under Ralf Rangnick, based on Austria's June 2026 friendly vs Tunisia and World Cup squad announcement",
+  "players": [
+    {
+      "name": "Alexander Schlager",
+      "position": "GK",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Salzburg; no documented foreign heritage, typical Austrian background."
+    },
+    {
+      "name": "Konrad Laimer",
+      "position": "DF",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Salzburg to Austrian parents; father involved in local football."
+    },
+    {
+      "name": "Stefan Posch",
+      "position": "DF",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Judenburg, Styria; no documented foreign heritage."
+    },
+    {
+      "name": "Philipp Lienhart",
+      "position": "DF",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Lilienfeld, Lower Austria; no documented foreign heritage."
+    },
+    {
+      "name": "David Alaba",
+      "position": "DF",
+      "birth_country": "Austria",
+      "father_origin": "Nigeria",
+      "mother_origin": "Philippines",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Vienna to a Yoruba Nigerian father, George Alaba, and a Filipina mother, Gina Alaba, both immigrants to Austria."
+    },
+    {
+      "name": "Nicolas Seiwald",
+      "position": "MF",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Kuchl, Salzburg; no documented foreign heritage."
+    },
+    {
+      "name": "Xaver Schlager",
+      "position": "MF",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Linz, raised in St. Valentin; parents Uwe and Doris Schlager are local Austrians."
+    },
+    {
+      "name": "Romano Schmid",
+      "position": "MF",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Graz; despite the Italian-sounding first name, no documented Italian family heritage found."
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "position": "MF",
+      "birth_country": "Austria",
+      "father_origin": "Austria",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "high", "mother": "low" },
+      "note": "Born in Wels; son of Herfried Sabitzer, a former Austria international footballer."
+    },
+    {
+      "name": "Michael Gregoritsch",
+      "position": "MF",
+      "birth_country": "Austria",
+      "father_origin": "Slovenia",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Graz; family is of Slovenian origin via his father's side, with father Werner Gregoritsch a former Austria U21 coach."
+    },
+    {
+      "name": "Marko Arnautovic",
+      "position": "FW",
+      "birth_country": "Austria",
+      "father_origin": "Serbia",
+      "mother_origin": "Austria",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Vienna to a Serbian father and Austrian mother; an Orthodox Christian who identifies closely with his Serbian roots."
+    }
+  ]
+}
