@@ -1,0 +1,106 @@
+{
+  "team": "Ghana",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Predicted Ghana starting XI (4-3-3), 2026 World Cup group stage",
+  "players": [
+    {
+      "name": "Benjamin Asare",
+      "position": "GK",
+      "birth_country": "Ghana",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Accra, Ghana; first home-based goalkeeper to play for Ghana at a World Cup, parents not documented but assumed Ghanaian."
+    },
+    {
+      "name": "Alidu Seidu",
+      "position": "DF",
+      "birth_country": "Ghana",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Kumasi, Ghana; parents not individually documented but Ghanaian."
+    },
+    {
+      "name": "Jerome Opoku",
+      "position": "DF",
+      "birth_country": "England",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Lambeth, London, England, raised by Ghanaian immigrant parents."
+    },
+    {
+      "name": "Alexander Djiku",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Ghana",
+      "mother_origin": "Senegal",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Montpellier, France, to a Ghanaian father and a Senegalese mother."
+    },
+    {
+      "name": "Gideon Mensah",
+      "position": "DF",
+      "birth_country": "Ghana",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Accra, Ghana, to Ghanaian parents."
+    },
+    {
+      "name": "Thomas Partey",
+      "position": "MF",
+      "birth_country": "Ghana",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Krobo Odumase, Ghana, to Ghanaian parents Jacob Partey and Petty."
+    },
+    {
+      "name": "Kwasi Sibo",
+      "position": "MF",
+      "birth_country": "Ghana",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Wa, Ghana, into a Ghanaian family; younger brother also plays professionally."
+    },
+    {
+      "name": "Mohammed Kudus",
+      "position": "MF",
+      "birth_country": "Ghana",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Nima, Accra, Ghana, to Ghanaian parents Suleman Idris Kudus and Mariama Suleman."
+    },
+    {
+      "name": "Abdul Fatawu Issahaku",
+      "position": "FW",
+      "birth_country": "Ghana",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Tamale, Ghana; parents Iddrisu and Hajia Maria are Ghanaian, details otherwise undocumented."
+    },
+    {
+      "name": "Jordan Ayew",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in France to Ghanaian football great Abedi Pele and Ghanaian mother Maha Ayew (whose own father was Lebanese, a grandparent-level link)."
+    },
+    {
+      "name": "Antoine Semenyo",
+      "position": "FW",
+      "birth_country": "England",
+      "father_origin": "Ghana",
+      "mother_origin": "Ghana",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Chelsea, London, England, to Ghanaian parents Larry (Volta Region) and Dela (Ashanti)."
+    }
+  ]
+}

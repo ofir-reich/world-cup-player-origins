@@ -1,0 +1,106 @@
+{
+  "team": "Egypt",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Egypt vs New Zealand, 2026 World Cup Group Stage, June 2026 (4-3-3)",
+  "players": [
+    {
+      "name": "Mostafa Shobeir",
+      "position": "GK",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "medium", "mother": "low" },
+      "note": "Born in Giza; son of former Egypt World Cup goalkeeper Ahmed Shobair."
+    },
+    {
+      "name": "Ahmed Fatouh",
+      "position": "DF",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Cairo; no documented foreign parentage, typical Egyptian background."
+    },
+    {
+      "name": "Mohamed Abdelmonem",
+      "position": "DF",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Zagazig to a working-class Egyptian family; no foreign heritage documented."
+    },
+    {
+      "name": "Yasser Ibrahim",
+      "position": "DF",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Mansoura; no documented foreign parentage."
+    },
+    {
+      "name": "Mohamed Hany",
+      "position": "DF",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in Egypt; joined Al Ahly's youth academy as a child."
+    },
+    {
+      "name": "Emam Ashour",
+      "position": "MF",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born and raised in El Senbellawein, Egypt; no parental heritage documented."
+    },
+    {
+      "name": "Marwan Attia",
+      "position": "MF",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Kafr El Dawwar, Egypt; father (deceased 2023) was Egyptian."
+    },
+    {
+      "name": "Hamdy Fathy",
+      "position": "MF",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Beheira Governorate, Egypt; no documented foreign parentage."
+    },
+    {
+      "name": "Mostafa Ziko",
+      "position": "FW",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born Mostafa Mohamed Zaky Abdelraouf; typical Egyptian background, no foreign heritage documented."
+    },
+    {
+      "name": "Omar Marmoush",
+      "position": "FW",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in Cairo to Egyptian parents who lived in Canada for six years (he holds dual Egyptian-Canadian citizenship) before resettling in Egypt."
+    },
+    {
+      "name": "Mohamed Salah",
+      "position": "FW",
+      "birth_country": "Egypt",
+      "father_origin": "Egypt",
+      "mother_origin": "Egypt",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Nagrig, Gharbia Governorate; father Salah Ghaly and mother Sobhiya both Egyptian."
+    }
+  ]
+}

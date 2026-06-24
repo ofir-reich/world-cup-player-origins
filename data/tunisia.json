@@ -1,0 +1,106 @@
+{
+  "team": "Tunisia",
+  "tournament": "2026 FIFA World Cup",
+  "lineup_source": "Projected Tunisia 2026 World Cup starting XI under Sabri Lamouchi (4-3-3)",
+  "players": [
+    {
+      "name": "Aymen Dahmen",
+      "position": "GK",
+      "birth_country": "Tunisia",
+      "father_origin": "Tunisia",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Sfax, Tunisia; no documented foreign parentage found."
+    },
+    {
+      "name": "Dylan Bronn",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "France",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Cannes, France, to a French father and Tunisian mother."
+    },
+    {
+      "name": "Montassar Talbi",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Tunisia",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "medium", "mother": "medium" },
+      "note": "Born in France to Tunisian parents; family moved back to Tunisia when he was young, holds dual Tunisia-France citizenship."
+    },
+    {
+      "name": "Mohamed Dräger",
+      "position": "DF",
+      "birth_country": "Germany",
+      "father_origin": "Germany",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Freiburg, Germany, to a German father and Tunisian mother."
+    },
+    {
+      "name": "Yan Valery",
+      "position": "DF",
+      "birth_country": "France",
+      "father_origin": "Martinique",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Champigny-sur-Marne, France, to a Martiniquais father and Tunisian mother; previously played for France youth teams."
+    },
+    {
+      "name": "Ellyes Skhiri",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "Tunisia",
+      "mother_origin": "France",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Lunel, France, to a Tunisian father and French mother; captains the side."
+    },
+    {
+      "name": "Hannibal Mejbri",
+      "position": "MF",
+      "birth_country": "France",
+      "father_origin": "Tunisia",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "high", "mother": "medium" },
+      "note": "Born in Ivry-sur-Seine, France, to Tunisian parents (father Lotfi Mejbri a former footballer); switched from France youth setup to Tunisia."
+    },
+    {
+      "name": "Rani Khedira",
+      "position": "MF",
+      "birth_country": "Germany",
+      "father_origin": "Tunisia",
+      "mother_origin": "Germany",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Stuttgart, Germany, to a Tunisian father and German mother; brother of former Germany international Sami Khedira."
+    },
+    {
+      "name": "Elias Achouri",
+      "position": "FW",
+      "birth_country": "France",
+      "father_origin": "Tunisia",
+      "mother_origin": "Algeria",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Saint-Denis, Réunion (French overseas department), to a Tunisian father and Algerian mother."
+    },
+    {
+      "name": "Sebastian Tounekti",
+      "position": "FW",
+      "birth_country": "Norway",
+      "father_origin": "Tunisia",
+      "mother_origin": "Norway",
+      "confidence": { "birth": "high", "father": "high", "mother": "high" },
+      "note": "Born in Tromsø, Norway, to a Tunisian father and Norwegian mother."
+    },
+    {
+      "name": "Khalil Ayari",
+      "position": "FW",
+      "birth_country": "Tunisia",
+      "father_origin": "Tunisia",
+      "mother_origin": "Tunisia",
+      "confidence": { "birth": "high", "father": "low", "mother": "low" },
+      "note": "Born in Tunis, Tunisia; no documented foreign parentage found."
+    }
+  ]
+}
