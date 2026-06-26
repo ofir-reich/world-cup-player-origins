@@ -1,20 +1,20 @@
-🏳️  Brazil — 2026 FIFA World Cup
+🇧🇷  Brazil — 2026 FIFA World Cup
    Lineup: Brazil vs Morocco, Group C opener, 12 June 2026
 
-🏳️  Alisson           GK    👨 🏳️?   👩 🏳️?
-🏳️  Douglas Santos    DF    👨 🏳️?   👩 🏳️?
-🏳️  Marquinhos        DF    👨 🏳️?   👩 🏳️?
-🏳️  Gabriel Magalhães DF    👨 🏳️?   👩 🏳️?
-🏳️  Roger Ibáñez      DF    👨 🏳️?   👩 🏳️?
-🏳️  Bruno Guimarães   MF    👨 🏳️?   👩 🏳️?
-🏳️  Casemiro          MF    👨 🏳️?   👩 🏳️?
-🏳️  Lucas Paquetá     MF    👨 🏳️?   👩 🏳️*
-🏳️  Raphinha          FW    👨 🏳️?   👩 🏳️?
-🏳️  Igor Thiago       FW    👨 🏳️?   👩 🏳️?
-🏳️  Vinícius Júnior   FW    👨 🏳️?   👩 🏳️?
+🇧🇷  Alisson           GK    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Douglas Santos    DF    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Marquinhos        DF    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Gabriel Magalhães DF    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Roger Ibáñez      DF    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Bruno Guimarães   MF    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Casemiro          MF    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Lucas Paquetá     MF    👨 🇧🇷?   👩 🇧🇷*
+🇧🇷  Raphinha          FW    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Igor Thiago       FW    👨 🇧🇷?   👩 🇧🇷?
+🇧🇷  Vinícius Júnior   FW    👨 🇧🇷?   👩 🇧🇷?
 
-Origins represented: 
-   (0 countries/territories)
+Origins represented: 🇧🇷
+   (1 countries/territories)
 
 Legend: 1st flag = birthplace · 👨 father's origin · 👩 mother's origin
         * = low confidence · ? = medium · 🏳️ = unknown

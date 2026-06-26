@@ -13,8 +13,8 @@
 🇺🇸  Jonathan David     FW    👨 🇭🇹   👩 🇭🇹
 🇨🇦  Cyle Larin         FW    👨 🇯🇲   👩 🇨🇦
 
-Origins represented: 🇨🇦 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇷 🇧🇧 🇯🇲 🇪🇹 🇵🇹 🇨🇮 🇺🇸 🇭🇹
-   (11 countries/territories)
+Origins represented: 🇨🇦 🇬🇭 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇷 🇧🇧 🇯🇲 🏳️ 🇪🇹 🇵🇹 🇨🇮 🇺🇸 🇭🇹
+   (12 countries/territories)
 
 Legend: 1st flag = birthplace · 👨 father's origin · 👩 mother's origin
         * = low confidence · ? = medium · 🏳️ = unknown

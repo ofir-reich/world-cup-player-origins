@@ -1,20 +1,20 @@
-🏳️  Argentina — 2026 FIFA World Cup
+🇦🇷  Argentina — 2026 FIFA World Cup
    Lineup: Argentina vs Algeria, Group J, 16 June 2026
 
-🏳️  Emiliano Martínez   GK    👨 🏳️?   👩 🏳️?
-🏳️  Gonzalo Montiel     DF    👨 🏳️?   👩 🏳️?
-🏳️  Cristian Romero     DF    👨 🏳️?   👩 🏳️?
-🏳️  Lisandro Martínez   DF    👨 🏳️?   👩 🏳️?
-🏳️  Facundo Medina      DF    👨 🏳️?   👩 🏳️?
-🏳️  Rodrigo De Paul     MF    👨 🏳️?   👩 🏳️*
-🏳️  Enzo Fernández      MF    👨 🏳️?   👩 🏳️?
-🏳️  Alexis Mac Allister MF    👨 🏳️?   👩 🏳️?
-🏳️  Lionel Messi        FW    👨 🏳️?   👩 🏳️?
-🏳️  Lautaro Martínez    FW    👨 🏳️?   👩 🏳️?
-🏳️  Thiago Almada       FW    👨 🏳️?   👩 🏳️?
+🇦🇷  Emiliano Martínez   GK    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Gonzalo Montiel     DF    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Cristian Romero     DF    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Lisandro Martínez   DF    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Facundo Medina      DF    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Rodrigo De Paul     MF    👨 🇦🇷?   👩 🇦🇷*
+🇦🇷  Enzo Fernández      MF    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Alexis Mac Allister MF    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Lionel Messi        FW    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Lautaro Martínez    FW    👨 🇦🇷?   👩 🇦🇷?
+🇦🇷  Thiago Almada       FW    👨 🇦🇷?   👩 🇦🇷?
 
-Origins represented: 
-   (0 countries/territories)
+Origins represented: 🇦🇷
+   (1 countries/territories)
 
 Legend: 1st flag = birthplace · 👨 father's origin · 👩 mother's origin
         * = low confidence · ? = medium · 🏳️ = unknown
