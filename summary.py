@@ -60,12 +60,14 @@ _LEGEND_BORN_EMOJI_HTML = ('Legend: <b>👶</b> = where the player was born. Eac
                            'one starter. Parents’ origins are omitted here — see the full '
                            'summary for those.')
 
-# name, rows, plain-text legend, html legend
+# name, rows, plain-text legend, html legend, compact-text
+# compact=True trims the .txt output (emoji label glued to flags, no spaces between
+# flags) so a team fits on one line — handy for pasting into WhatsApp/chat.
 VARIANTS = [
-    ("summary", ROWS_FULL, _LEGEND_FULL_TXT, _LEGEND_FULL_HTML),
-    ("summary_emoji", ROWS_EMOJI, _LEGEND_EMOJI_TXT, _LEGEND_EMOJI_HTML),
-    ("summary_born", ROWS_BORN, _LEGEND_BORN_TXT, _LEGEND_BORN_HTML),
-    ("summary_born_emoji", ROWS_BORN_EMOJI, _LEGEND_BORN_EMOJI_TXT, _LEGEND_BORN_EMOJI_HTML),
+    ("summary", ROWS_FULL, _LEGEND_FULL_TXT, _LEGEND_FULL_HTML, False),
+    ("summary_emoji", ROWS_EMOJI, _LEGEND_EMOJI_TXT, _LEGEND_EMOJI_HTML, True),
+    ("summary_born", ROWS_BORN, _LEGEND_BORN_TXT, _LEGEND_BORN_HTML, False),
+    ("summary_born_emoji", ROWS_BORN_EMOJI, _LEGEND_BORN_EMOJI_TXT, _LEGEND_BORN_EMOJI_HTML, True),
 ]
 
 
@@ -82,13 +84,19 @@ def load_teams() -> list[dict]:
 
 # --- terminal ------------------------------------------------------------------
 
-def render_text(teams: list[dict], rows: list[tuple[str, str]], legend: str) -> str:
+def render_text(teams: list[dict], rows: list[tuple[str, str]], legend: str,
+                compact: bool = False) -> str:
     lines = [legend, ""]
     for data in teams:
-        lines.append(f"{country_to_flags(data['team'])}  {data['team'].upper()}")
+        sep = " " if compact else "  "
+        lines.append(f"{country_to_flags(data['team'])}{sep}{data['team'].upper()}")
         for label, key in rows:
-            flags = " ".join(country_to_flags(p[key]) for p in data["players"])
-            lines.append(f"  {label:<8} {flags}")
+            if compact:  # glue label to flags, no spaces — fits one chat line
+                flags = "".join(country_to_flags(p[key]) for p in data["players"])
+                lines.append(f"{label}{flags}")
+            else:
+                flags = " ".join(country_to_flags(p[key]) for p in data["players"])
+                lines.append(f"  {label:<8} {flags}")
         lines.append("")
     return "\n".join(lines)
 
@@ -160,9 +168,10 @@ def main() -> None:
     teams = load_teams()
     out = ROOT / "output"
     out.mkdir(exist_ok=True)
-    for name, rows, legend_txt, legend_html in VARIANTS:
+    for name, rows, legend_txt, legend_html, compact in VARIANTS:
         (out / f"{name}.html").write_text(render_html(teams, rows, legend_html), encoding="utf-8")
-        (out / f"{name}.txt").write_text(render_text(teams, rows, legend_txt) + "\n", encoding="utf-8")
+        (out / f"{name}.txt").write_text(
+            render_text(teams, rows, legend_txt, compact) + "\n", encoding="utf-8")
     names = ", ".join(name for name, *_ in VARIANTS)
     print(f"Wrote {len(VARIANTS)} variants ({names}) "
           f"× (.html + .txt) to {out}/ for {len(teams)} teams.")
