@@ -12,15 +12,19 @@ Teams: **all 48 of the 2026 FIFA World Cup** — see `data/` (one `<team>.json` 
 python render.py            # defaults to switzerland
 python render.py france     # any team — match the data/<team>.json stem
 python render_html.py france # browser version (flag images)
-python summary.py            # all 48 teams in one view (output/summary.html + .txt)
+python summary.py            # all 48 teams — three variants (output/summary*.html + .txt)
 ```
 
 The combined `output/summary.html` (all 48 teams) is the headline view — open it in a
 browser. Per-team pages have names, notes and confidence markers.
 
-`summary.py` builds a combined grid: each team titled with its flag, then three
-flag-only rows (players' birth countries, fathers' origins, mothers' origins), with
-player columns aligned so each column is one starter.
+`summary.py` builds a combined grid: each team titled with its flag, then flag-only
+rows, with player columns aligned so each column is one starter. It writes **three
+variants** (each as `.html` + `.txt`):
+
+- `summary` — rows labelled **Born / Fathers / Mothers**.
+- `summary_emoji` — the same three rows labelled **👶 / 👨 / 👩** with a legend at the top.
+- `summary_born` — **only the Born row** (parents omitted).
 
 No dependencies required. `pip install -r requirements.txt` (pycountry) is optional
 and just extends country-name coverage for when you add more teams.

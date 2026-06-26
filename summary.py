@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
-"""Build one combined summary across all teams in data/.
+"""Build combined summaries across all teams in data/.
 
-For each team: a title (flag + name) and a 3-row grid — players' birth countries,
-fathers' origins, mothers' origins — shown as flags only (no player names). Player
-columns line up across the three rows, so each column is one player.
+For each team: a title (flag + name) and a grid of flag-only rows. Player columns
+line up across rows, so each column is one player. Three variants are produced:
 
-Outputs:
-  - output/summary.html  (open in a browser; flags as flagcdn images)
-  - output/summary.txt   (terminal version with flag emoji)
+  summary       — rows labelled "Born / Fathers / Mothers" (the original)
+  summary_emoji — same three rows, but labelled with 👶 / 👨 / 👩 + a legend
+  summary_born  — only the "Born" row (parents omitted)
+
+Each variant is written as both .html (flagcdn images) and .txt (flag emoji):
+  output/summary.html / .txt
+  output/summary_emoji.html / .txt
+  output/summary_born.html / .txt
 
 Run: python summary.py
 """
@@ -25,7 +29,35 @@ DATA = ROOT / "data"
 
 # Preferred display order; any other team files are appended alphabetically.
 PREFERRED = ["switzerland", "france", "morocco", "germany", "senegal", "croatia"]
-ROWS = [("Born", "birth_country"), ("Fathers", "father_origin"), ("Mothers", "mother_origin")]
+
+# Row sets: (label, json_key). Label is what's shown in the left gutter.
+ROWS_FULL = [("Born", "birth_country"), ("Fathers", "father_origin"), ("Mothers", "mother_origin")]
+ROWS_EMOJI = [("👶", "birth_country"), ("👨", "father_origin"), ("👩", "mother_origin")]
+ROWS_BORN = [("Born", "birth_country")]
+
+# Legends (plain text and HTML) per variant.
+_LEGEND_FULL_TXT = ("Each column is one starter. Rows: where players were born, and "
+                    "where their fathers and mothers are from.")
+_LEGEND_FULL_HTML = ('Each column is one starter. Rows: where players were <b>born</b>, '
+                     'and where their <b>fathers</b> and <b>mothers</b> are from. Flags '
+                     'only — see the per-team pages for names, notes and confidence.')
+_LEGEND_EMOJI_TXT = ("Legend:  👶 = where the player was born   👨 = father's origin   "
+                     "👩 = mother's origin.   Each column is one starter.")
+_LEGEND_EMOJI_HTML = ('Legend: <b>👶</b> = where the player was born &nbsp;·&nbsp; '
+                      '<b>👨</b> = father’s origin &nbsp;·&nbsp; '
+                      '<b>👩</b> = mother’s origin. Each column is one starter. '
+                      'Flags only — see the per-team pages for names and confidence.')
+_LEGEND_BORN_TXT = ("Each column is one starter, shown by where they were born. "
+                    "(Parents' origins omitted — see the full summary for those.)")
+_LEGEND_BORN_HTML = ('Each column is one starter, shown by where they were <b>born</b>. '
+                     'Parents’ origins are omitted here — see the full summary for those.')
+
+# name, rows, plain-text legend, html legend
+VARIANTS = [
+    ("summary", ROWS_FULL, _LEGEND_FULL_TXT, _LEGEND_FULL_HTML),
+    ("summary_emoji", ROWS_EMOJI, _LEGEND_EMOJI_TXT, _LEGEND_EMOJI_HTML),
+    ("summary_born", ROWS_BORN, _LEGEND_BORN_TXT, _LEGEND_BORN_HTML),
+]
 
 
 def team_files() -> list[Path]:
@@ -41,12 +73,11 @@ def load_teams() -> list[dict]:
 
 # --- terminal ------------------------------------------------------------------
 
-def render_text(teams: list[dict]) -> str:
-    lines = []
+def render_text(teams: list[dict], rows: list[tuple[str, str]], legend: str) -> str:
+    lines = [legend, ""]
     for data in teams:
-        title = f"{country_to_flags(data['team'])}  {data['team'].upper()}"
-        lines.append(title)
-        for label, key in ROWS:
+        lines.append(f"{country_to_flags(data['team'])}  {data['team'].upper()}")
+        for label, key in rows:
             flags = " ".join(country_to_flags(p[key]) for p in data["players"])
             lines.append(f"  {label:<8} {flags}")
         lines.append("")
@@ -67,19 +98,19 @@ def cell_html(field: str) -> str:
     return '<td class="flagcell">' + "".join(_img(c) for c in codes) + "</td>"
 
 
-def team_html(data: dict) -> str:
+def team_html(data: dict, rows: list[tuple[str, str]]) -> str:
     title_flag = "".join(_img(c) for c in name_to_codes(data["team"]))
     head = (f'<h2><span class="title-flag">{title_flag}</span> {html.escape(data["team"])} '
             f'<span class="tour">{html.escape(data.get("tournament", ""))}</span></h2>')
-    rows = []
-    for label, key in ROWS:
+    body = []
+    for label, key in rows:
         cells = "".join(cell_html(p[key]) for p in data["players"])
-        rows.append(f'<tr><th>{label}</th>{cells}</tr>')
-    return f'{head}\n<table class="grid"><tbody>\n' + "\n".join(rows) + "\n</tbody></table>"
+        body.append(f'<tr><th>{html.escape(label)}</th>{cells}</tr>')
+    return f'{head}\n<table class="grid"><tbody>\n' + "\n".join(body) + "\n</tbody></table>"
 
 
-def render_html(teams: list[dict]) -> str:
-    blocks = "\n".join(team_html(t) for t in teams)
+def render_html(teams: list[dict], rows: list[tuple[str, str]], legend_html: str) -> str:
+    blocks = "\n".join(team_html(t, rows) for t in teams)
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -97,7 +128,7 @@ def render_html(teams: list[dict]) -> str:
                      box-shadow: 0 0 0 1px #0003; }}
   .tour {{ color: #888; font-size: .8rem; font-weight: 400; }}
   table.grid {{ border-collapse: collapse; }}
-  table.grid th {{ text-align: right; color: #888; font-weight: 500; font-size: .8rem;
+  table.grid th {{ text-align: right; color: #888; font-weight: 500; font-size: .9rem;
                    text-transform: uppercase; letter-spacing: .03em; padding-right: .6rem;
                    white-space: nowrap; }}
   td.flagcell {{ padding: .2rem .22rem; text-align: center; white-space: nowrap; }}
@@ -109,9 +140,7 @@ def render_html(teams: list[dict]) -> str:
 </head>
 <body>
   <h1>🌍 World Cup Player Origins — all teams</h1>
-  <p class="legend">Each column is one starter. Rows: where players were <b>born</b>,
-     and where their <b>fathers</b> and <b>mothers</b> are from. Flags only — see the
-     per-team pages for names, notes and confidence.</p>
+  <p class="legend">{legend_html}</p>
 {blocks}
 </body>
 </html>
@@ -122,11 +151,11 @@ def main() -> None:
     teams = load_teams()
     out = ROOT / "output"
     out.mkdir(exist_ok=True)
-    (out / "summary.html").write_text(render_html(teams), encoding="utf-8")
-    text = render_text(teams)
-    (out / "summary.txt").write_text(text + "\n", encoding="utf-8")
-    print(text)
-    print(f"Wrote {out/'summary.html'} and {out/'summary.txt'} ({len(teams)} teams)")
+    for name, rows, legend_txt, legend_html in VARIANTS:
+        (out / f"{name}.html").write_text(render_html(teams, rows, legend_html), encoding="utf-8")
+        (out / f"{name}.txt").write_text(render_text(teams, rows, legend_txt) + "\n", encoding="utf-8")
+    print(f"Wrote 3 variants (summary, summary_emoji, summary_born) "
+          f"× (.html + .txt) to {out}/ for {len(teams)} teams.")
 
 
 if __name__ == "__main__":

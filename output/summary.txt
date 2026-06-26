@@ -1,3 +1,5 @@
+Each column is one starter. Rows: where players were born, and where their fathers and mothers are from.
+
 🇨🇭  SWITZERLAND
   Born     🇨🇭 🇨🇭 🇨🇭 🇨🇭 🇨🇭 🇨🇭 🇨🇭 🇨🇭 🇨🇭 🇨🇲 🇨🇭
   Fathers  🇨🇭 🇨🇭 🇨🇭 🇳🇬 🇪🇸 🇨🇭 🇽🇰 🇨🇭 🇨🇭 🇨🇲 🇸🇳
