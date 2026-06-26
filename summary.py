@@ -4,14 +4,16 @@
 For each team: a title (flag + name) and a grid of flag-only rows. Player columns
 line up across rows, so each column is one player. Three variants are produced:
 
-  summary       — rows labelled "Born / Fathers / Mothers" (the original)
-  summary_emoji — same three rows, but labelled with 👶 / 👨 / 👩 + a legend
-  summary_born  — only the "Born" row (parents omitted)
+  summary           — rows labelled "Born / Fathers / Mothers" (the original)
+  summary_emoji     — same three rows, but labelled with 👶 / 👨 / 👩 + a legend
+  summary_born      — only the "Born" row (parents omitted)
+  summary_born_emoji — only the "Born" row, labelled with 👶 + a legend
 
 Each variant is written as both .html (flagcdn images) and .txt (flag emoji):
   output/summary.html / .txt
   output/summary_emoji.html / .txt
   output/summary_born.html / .txt
+  output/summary_born_emoji.html / .txt
 
 Run: python summary.py
 """
@@ -34,6 +36,7 @@ PREFERRED = ["switzerland", "france", "morocco", "germany", "senegal", "croatia"
 ROWS_FULL = [("Born", "birth_country"), ("Fathers", "father_origin"), ("Mothers", "mother_origin")]
 ROWS_EMOJI = [("👶", "birth_country"), ("👨", "father_origin"), ("👩", "mother_origin")]
 ROWS_BORN = [("Born", "birth_country")]
+ROWS_BORN_EMOJI = [("👶", "birth_country")]
 
 # Legends (plain text and HTML) per variant.
 _LEGEND_FULL_TXT = ("Each column is one starter. Rows: where players were born, and "
@@ -51,12 +54,18 @@ _LEGEND_BORN_TXT = ("Each column is one starter, shown by where they were born. 
                     "(Parents' origins omitted — see the full summary for those.)")
 _LEGEND_BORN_HTML = ('Each column is one starter, shown by where they were <b>born</b>. '
                      'Parents’ origins are omitted here — see the full summary for those.')
+_LEGEND_BORN_EMOJI_TXT = ("Legend:  👶 = where the player was born.   Each column is one "
+                          "starter.   (Parents' origins omitted.)")
+_LEGEND_BORN_EMOJI_HTML = ('Legend: <b>👶</b> = where the player was born. Each column is '
+                           'one starter. Parents’ origins are omitted here — see the full '
+                           'summary for those.')
 
 # name, rows, plain-text legend, html legend
 VARIANTS = [
     ("summary", ROWS_FULL, _LEGEND_FULL_TXT, _LEGEND_FULL_HTML),
     ("summary_emoji", ROWS_EMOJI, _LEGEND_EMOJI_TXT, _LEGEND_EMOJI_HTML),
     ("summary_born", ROWS_BORN, _LEGEND_BORN_TXT, _LEGEND_BORN_HTML),
+    ("summary_born_emoji", ROWS_BORN_EMOJI, _LEGEND_BORN_EMOJI_TXT, _LEGEND_BORN_EMOJI_HTML),
 ]
 
 
@@ -154,7 +163,8 @@ def main() -> None:
     for name, rows, legend_txt, legend_html in VARIANTS:
         (out / f"{name}.html").write_text(render_html(teams, rows, legend_html), encoding="utf-8")
         (out / f"{name}.txt").write_text(render_text(teams, rows, legend_txt) + "\n", encoding="utf-8")
-    print(f"Wrote 3 variants (summary, summary_emoji, summary_born) "
+    names = ", ".join(name for name, *_ in VARIANTS)
+    print(f"Wrote {len(VARIANTS)} variants ({names}) "
           f"× (.html + .txt) to {out}/ for {len(teams)} teams.")
 
 
