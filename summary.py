@@ -79,7 +79,12 @@ def team_files() -> list[Path]:
 
 
 def load_teams() -> list[dict]:
-    return [json.loads(p.read_text(encoding="utf-8")) for p in team_files()]
+    teams = []
+    for p in team_files():
+        data = json.loads(p.read_text(encoding="utf-8"))
+        data["_stem"] = p.stem  # used to link each title to its per-team page
+        teams.append(data)
+    return teams
 
 
 # --- terminal ------------------------------------------------------------------
@@ -117,7 +122,11 @@ def cell_html(field: str) -> str:
 
 def team_html(data: dict, rows: list[tuple[str, str]]) -> str:
     title_flag = "".join(_img(c) for c in name_to_codes(data["team"]))
-    head = (f'<h2><span class="title-flag">{title_flag}</span> {html.escape(data["team"])} '
+    # Flag + name link to the per-team page (same directory, so this href works
+    # both in output/ locally and on the website). Tournament stays outside the link.
+    href = html.escape(f'{data.get("_stem", "")}.html')
+    head = (f'<h2><a class="teamlink" href="{href}">'
+            f'<span class="title-flag">{title_flag}</span> {html.escape(data["team"])}</a> '
             f'<span class="tour">{html.escape(data.get("tournament", ""))}</span></h2>')
     body = []
     for label, key in rows:
@@ -141,6 +150,9 @@ def render_html(teams: list[dict], rows: list[tuple[str, str]], legend_html: str
   h1 {{ font-size: 1.6rem; }}
   h2 {{ font-size: 1.2rem; margin: 1.8rem 0 .5rem; display: flex; align-items: center;
         gap: .5rem; flex-wrap: wrap; }}
+  a.teamlink {{ color: inherit; text-decoration: none; display: inline-flex;
+                align-items: center; gap: .5rem; }}
+  a.teamlink:hover {{ text-decoration: underline; }}
   .title-flag img {{ height: 1.2em; vertical-align: -0.2em; border-radius: 2px;
                      box-shadow: 0 0 0 1px #0003; }}
   .tour {{ color: #888; font-size: .8rem; font-weight: 400; }}
