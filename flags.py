@@ -42,6 +42,29 @@ def code_to_flag(code: str) -> str:
     return "".join(chr(_REGIONAL_INDICATOR_A + ord(c) - _ASCII_A) for c in code)
 
 
+# Human-readable names for codes pycountry doesn't carry (for flag tooltips).
+_CODE_NAME_OVERRIDES = {
+    "GB-ENG": "England", "GB-SCT": "Scotland", "GB-WLS": "Wales",
+    "GB-NIR": "Northern Ireland", "XK": "Kosovo",
+    "CD": "DR Congo", "PS": "Palestine", "CV": "Cape Verde",
+}
+
+
+def code_to_name(code: str) -> str:
+    """Best-effort human-readable country name for a code (used for hover text)."""
+    code = code.upper()
+    if code in _CODE_NAME_OVERRIDES:
+        return _CODE_NAME_OVERRIDES[code]
+    if pycountry is not None:
+        try:
+            c = pycountry.countries.get(alpha_2=code)
+            if c is not None:
+                return getattr(c, "common_name", None) or c.name
+        except (KeyError, LookupError):
+            pass
+    return code
+
+
 # --- country name -> alpha-2 code ----------------------------------------------
 
 # Sentinels meaning "no known origin".

@@ -24,7 +24,7 @@ import html
 import json
 from pathlib import Path
 
-from flags import country_to_flags, name_to_codes, code_to_flag
+from flags import country_to_flags, name_to_codes, code_to_flag, code_to_name
 
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
@@ -109,8 +109,11 @@ def render_text(teams: list[dict], rows: list[tuple[str, str]], legend: str,
 # --- html ----------------------------------------------------------------------
 
 def _img(code: str) -> str:
+    name = html.escape(code_to_name(code))
+    # title -> native tooltip on hover; alt -> same name for accessibility.
     return (f'<img loading="lazy" src="https://flagcdn.com/h40/{code.lower()}.png" '
-            f'srcset="https://flagcdn.com/h80/{code.lower()}.png 2x" alt="{code}">')
+            f'srcset="https://flagcdn.com/h80/{code.lower()}.png 2x" '
+            f'title="{name}" alt="{name}">')
 
 
 def cell_html(field: str) -> str:
@@ -165,10 +168,12 @@ def render_html(teams: list[dict], rows: list[tuple[str, str]], legend_html: str
                      margin: 0 1px; vertical-align: middle; }}
   td.flagcell .unknown {{ opacity: .5; }}
   .legend {{ color: #888; font-size: .85rem; margin-top: 2rem; }}
+  .intro {{ font-size: .95rem; margin: .3rem 0 1rem; }}
 </style>
 </head>
 <body>
   <h1>🌍 World Cup Player Origins — all teams</h1>
+  <p class="intro">Click a country name to see a detailed list of players with their names and origins.</p>
   <p class="legend">{legend_html}</p>
 {blocks}
 </body>
